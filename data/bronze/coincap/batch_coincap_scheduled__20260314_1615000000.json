@@ -1,0 +1,4394 @@
+[
+  {
+    "id": "bitcoin",
+    "rank": "1",
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "supply": "20002471.000000000000000000",
+    "maxSupply": "21000000.000000000000000000",
+    "marketCapUsd": "1442498198636.000000000000000000",
+    "volumeUsd24Hr": "20713678395.598274230957031250",
+    "priceUsd": "72116.000000000000000000",
+    "changePercent24Hr": "1.9419288037224414",
+    "vwap24Hr": "71501.60253161834",
+    "explorer": "https://blockchain.info/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "ethereum",
+    "rank": "2",
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "supply": "120691908.694058135151863098",
+    "maxSupply": null,
+    "marketCapUsd": "259843644822.872436523437500000",
+    "volumeUsd24Hr": "9316380715.833047866821289063",
+    "priceUsd": "2152.949999999999818101",
+    "changePercent24Hr": "3.2089970805508883",
+    "vwap24Hr": "2105.594555438198",
+    "explorer": "https://etherscan.io/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "tether",
+    "rank": "3",
+    "symbol": "USDT",
+    "name": "Tether USDt",
+    "supply": "184032318235.761535644531250000",
+    "maxSupply": null,
+    "marketCapUsd": "184069124699.408691406250000000",
+    "volumeUsd24Hr": "292871504.759562313556671143",
+    "priceUsd": "1.000199999999999978",
+    "changePercent24Hr": "0",
+    "vwap24Hr": "1.0001844546878342",
+    "explorer": "https://www.omniexplorer.info/asset/31",
+    "tokens": {
+      "1": [
+        "0xdac17f958d2ee523a2206206994597c13d831ec7"
+      ],
+      "10": [
+        "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58"
+      ],
+      "56": [
+        "0x55d398326f99059ff775485246999027b3197955"
+      ],
+      "101": [
+        "es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb"
+      ],
+      "137": [
+        "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+      ],
+      "42161": [
+        "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "binance-coin",
+    "rank": "4",
+    "symbol": "BNB",
+    "name": "BNB",
+    "supply": "136357955.250000000000000000",
+    "maxSupply": "136357955.250000000000000000",
+    "marketCapUsd": "91332558426.449996948242187500",
+    "volumeUsd24Hr": "611666615.276472330093383789",
+    "priceUsd": "669.799999999999954525",
+    "changePercent24Hr": "2.307962547159709",
+    "vwap24Hr": "660.2067174186186",
+    "explorer": "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "tokens": {
+      "1": [
+        "0xb8c77482e45f1f44de1745f52c74426c631bdd52"
+      ],
+      "56": [
+        "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "xrp",
+    "rank": "5",
+    "symbol": "XRP",
+    "name": "XRP",
+    "supply": "61227832454.000000000000000000",
+    "maxSupply": "100000000000.000000000000000000",
+    "marketCapUsd": "88210938216.477798461914062500",
+    "volumeUsd24Hr": "1503645165.863991260528564453",
+    "priceUsd": "1.440700000000000092",
+    "changePercent24Hr": "3.2463809660312535",
+    "vwap24Hr": "1.4144722753081955",
+    "explorer": "https://xrpcharts.ripple.com/#/graph/",
+    "tokens": {
+      "56": [
+        "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "usd-coin",
+    "rank": "6",
+    "symbol": "USDC",
+    "name": "USDC",
+    "supply": "79162588471.893676757812500000",
+    "maxSupply": null,
+    "marketCapUsd": "79154656380.528793334960937500",
+    "volumeUsd24Hr": "1052103129.057891011238098145",
+    "priceUsd": "0.999899800000000005",
+    "changePercent24Hr": "0.0026802780621137524",
+    "vwap24Hr": "0.9998461874889903",
+    "explorer": "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "tokens": {
+      "1": [
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+      ],
+      "10": [
+        "0x0b2c639c533813f4aa9d7837caf62653d097ff85"
+      ],
+      "56": [
+        "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+      ],
+      "101": [
+        "epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v"
+      ],
+      "137": [
+        "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+        "0x078d782b760474a361dda0af3839290b0ef57ad6"
+      ],
+      "8453": [
+        "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913"
+      ],
+      "42161": [
+        "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
+      ],
+      "43114": [
+        "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "solana",
+    "rank": "7",
+    "symbol": "SOL",
+    "name": "Solana",
+    "supply": "571356041.925154209136962891",
+    "maxSupply": null,
+    "marketCapUsd": "52095744823.232925415039062500",
+    "volumeUsd24Hr": "2389634999.042169570922851563",
+    "priceUsd": "91.179126499999981093",
+    "changePercent24Hr": "4.407564983396293",
+    "vwap24Hr": "88.24839618396972",
+    "explorer": "https://explorer.solana.com/",
+    "tokens": {
+      "101": [
+        "so11111111111111111111111111111111111111112"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "tron",
+    "rank": "8",
+    "symbol": "TRX",
+    "name": "TRON",
+    "supply": "94749930700.962402343750000000",
+    "maxSupply": null,
+    "marketCapUsd": "28282854314.237274169921875000",
+    "volumeUsd24Hr": "344366157.944194912910461426",
+    "priceUsd": "0.298499999999999988",
+    "changePercent24Hr": "0.3192740715846098",
+    "vwap24Hr": "0.29748666483656244",
+    "explorer": "https://tronscan.org/#/",
+    "tokens": {
+      "1": [
+        "0x50327c6c5a14dcade707abad2e27eb517df87ab5"
+      ],
+      "56": [
+        "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "steth",
+    "rank": "9",
+    "symbol": "STETH",
+    "name": "Lido Staked ETH",
+    "supply": "9181989.136205490678548813",
+    "maxSupply": null,
+    "marketCapUsd": "19750734091.652099609375000000",
+    "volumeUsd24Hr": "3337781.876867630518972874",
+    "priceUsd": "2151.030000000000200089",
+    "changePercent24Hr": "3.198088631097181",
+    "vwap24Hr": "2104.678531885753",
+    "explorer": "https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "tokens": {
+      "1": [
+        "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "dogecoin",
+    "rank": "10",
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "supply": "153422276383.705230712890625000",
+    "maxSupply": null,
+    "marketCapUsd": "14786838997.861509323120117188",
+    "volumeUsd24Hr": "713184293.241884231567382813",
+    "priceUsd": "0.096379999999999993",
+    "changePercent24Hr": "1.4633119275713111",
+    "vwap24Hr": "0.09571334919024793",
+    "explorer": "http://dogechain.info/chain/Dogecoin",
+    "tokens": {
+      "56": [
+        "0xba2ae424d960c26247dd6c32edc70b295c744c43"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "cardano",
+    "rank": "11",
+    "symbol": "ADA",
+    "name": "Cardano",
+    "supply": "36087496074.637191772460937500",
+    "maxSupply": "45000000000.000000000000000000",
+    "marketCapUsd": "9678666447.217693328857421875",
+    "volumeUsd24Hr": "281250594.477786839008331299",
+    "priceUsd": "0.268199999999999938",
+    "changePercent24Hr": "2.9953917050690926",
+    "vwap24Hr": "0.2641943633912952",
+    "explorer": "https://cardanoexplorer.com/",
+    "tokens": {
+      "56": [
+        "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "hyperliquid",
+    "rank": "12",
+    "symbol": "HYPE",
+    "name": "Hyperliquid",
+    "supply": "257223926.575739562511444092",
+    "maxSupply": "961671487.860000014305114746",
+    "marketCapUsd": "9540949884.547330856323242188",
+    "volumeUsd24Hr": "161863920.723161280155181885",
+    "priceUsd": "37.091999999999998749",
+    "changePercent24Hr": "-2.4459523433801476",
+    "vwap24Hr": "37.52815995680319",
+    "explorer": "https://app.hyperliquid.xyz/explorer/token/0x0d01dc56dcaaca66ad901c959b4011ec",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "bitcoin-cash",
+    "rank": "13",
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "supply": "20007756.250000000000000000",
+    "maxSupply": "21000000.000000000000000000",
+    "marketCapUsd": "9339620617.500000000000000000",
+    "volumeUsd24Hr": "222748552.823771804571151733",
+    "priceUsd": "466.800000000000011369",
+    "changePercent24Hr": "0.10078699633307472",
+    "vwap24Hr": "464.67770743354134",
+    "explorer": "https://blockchair.com/bitcoin-cash/blocks",
+    "tokens": {
+      "56": [
+        "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "lido-finance-wsteth",
+    "rank": "14",
+    "symbol": "WSTETH",
+    "name": "Lido wstETH",
+    "supply": "3509837.121187789831310511",
+    "maxSupply": null,
+    "marketCapUsd": "9282802302.257806777954101563",
+    "volumeUsd24Hr": "3868171.089773796964436769",
+    "priceUsd": "2644.795750270127882686",
+    "changePercent24Hr": "3.194984646298469",
+    "vwap24Hr": "2587.192498985095",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+      ],
+      "10": [
+        "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb"
+      ],
+      "137": [
+        "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd"
+      ],
+      "8453": [
+        "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452"
+      ],
+      "42161": [
+        "0x5979d7b546e38e414f7e9822514be443a4800529"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "wrapped-bitcoin",
+    "rank": "15",
+    "symbol": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "supply": "119524.676365410006837919",
+    "maxSupply": null,
+    "marketCapUsd": "8603007311.558134078979492188",
+    "volumeUsd24Hr": "137107145.433977842330932617",
+    "priceUsd": "71976.830000000001746230",
+    "changePercent24Hr": "1.9797539357110354",
+    "vwap24Hr": "71360.56317281297",
+    "explorer": "https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "tokens": {
+      "1": [
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+      ],
+      "10": [
+        "0x68f180fcce6836688e9084f035309e29bf0a2095"
+      ],
+      "101": [
+        "3nz9jmvbmgaqocybic2c7lqcjscmgsaz6vqqtdzcqmjh"
+      ],
+      "137": [
+        "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
+      ],
+      "42161": [
+        "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f"
+      ],
+      "43114": [
+        "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "unus-sed-leo",
+    "rank": "16",
+    "symbol": "LEO",
+    "name": "UNUS SED LEO",
+    "supply": "921114986.899999976158142090",
+    "maxSupply": null,
+    "marketCapUsd": "8346222896.300899505615234375",
+    "volumeUsd24Hr": "778043.510119396029040217",
+    "priceUsd": "9.060999999999999943",
+    "changePercent24Hr": "-0.23122660207003737",
+    "vwap24Hr": "9.067766624539507",
+    "explorer": "https://eospark.com/account/bitfinexleo1",
+    "tokens": {
+      "1": [
+        "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "weth",
+    "rank": "17",
+    "symbol": "WETH",
+    "name": "WETH",
+    "supply": "3375317.592646900098770857",
+    "maxSupply": null,
+    "marketCapUsd": "7211776417.062884330749511719",
+    "volumeUsd24Hr": "77347232.687935099005699158",
+    "priceUsd": "2136.621582743406634108",
+    "changePercent24Hr": "2.434557607155442",
+    "vwap24Hr": "2105.425642505704",
+    "explorer": "https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "tokens": {
+      "1": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      ],
+      "10": [
+        "0x4200000000000000000000000000000000000006"
+      ],
+      "56": [
+        "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+      ],
+      "101": [
+        "2fpytwczlug1mdrwsyop4d6s1tm7hakhyrjknb5w6pxk"
+      ],
+      "130": [
+        "0x4200000000000000000000000000000000000006"
+      ],
+      "137": [
+        "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+      ],
+      "8453": [
+        "0x4200000000000000000000000000000000000006"
+      ],
+      "42161": [
+        "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+      ],
+      "43114": [
+        "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "chainlink",
+    "rank": "18",
+    "symbol": "LINK",
+    "name": "Chainlink",
+    "supply": "708099970.452586650848388672",
+    "maxSupply": "1000000000.000000000000000000",
+    "marketCapUsd": "6616469554.369660377502441406",
+    "volumeUsd24Hr": "266684513.224944531917572021",
+    "priceUsd": "9.343976599999999522",
+    "changePercent24Hr": "2.827958622207547",
+    "vwap24Hr": "9.204183421839367",
+    "explorer": "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+    "tokens": {
+      "1": [
+        "0x514910771af9ca656af840dff83e8264ecf986ca"
+      ],
+      "10": [
+        "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6"
+      ],
+      "56": [
+        "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd"
+      ],
+      "101": [
+        "cwe8jptuyhdctzywpte1o5dfqfdjzwkc9wkz6rsjqudg"
+      ],
+      "137": [
+        "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
+      ],
+      "42161": [
+        "0xf97f4df75117a78c1a5a0dbb814af92458539fb4"
+      ],
+      "43114": [
+        "0x5947bb275c521040051d82396192181b413227a3"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "monero",
+    "rank": "19",
+    "symbol": "XMR",
+    "name": "Monero",
+    "supply": "18446744.073709551244974136",
+    "maxSupply": null,
+    "marketCapUsd": "6546011601.996571540832519531",
+    "volumeUsd24Hr": "94565646.350184351205825806",
+    "priceUsd": "354.860000000000013642",
+    "changePercent24Hr": "-1.02055986448691",
+    "vwap24Hr": "355.832412643249",
+    "explorer": "http://moneroblocks.info/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "wrapped-eeth",
+    "rank": "20",
+    "symbol": "WEETH",
+    "name": "Wrapped eETH",
+    "supply": "2621996.313256689812988043",
+    "maxSupply": null,
+    "marketCapUsd": "6135235393.352460861206054688",
+    "volumeUsd24Hr": "436497.905632067879196256",
+    "priceUsd": "2339.909999999999854481",
+    "changePercent24Hr": "3.146242330957189",
+    "vwap24Hr": "2290.396481628625",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee"
+      ],
+      "10": [
+        "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff"
+      ],
+      "56": [
+        "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a"
+      ],
+      "8453": [
+        "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a"
+      ],
+      "42161": [
+        "0x35751007a407ca6feffe80b3cb397736d2cf4dbe"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "ethena-usde",
+    "rank": "21",
+    "symbol": "USDE",
+    "name": "Ethena USDe",
+    "supply": "5921266701.696718215942382813",
+    "maxSupply": null,
+    "marketCapUsd": "5921266701.696718215942382813",
+    "volumeUsd24Hr": "21589871.381748847663402557",
+    "priceUsd": "1.000000000000000000",
+    "changePercent24Hr": "0",
+    "vwap24Hr": "0.9999707394744262",
+    "explorer": "etherscan.io",
+    "tokens": {
+      "1": [
+        "0x4c9edd5852cd905f086c759e8383e09bff1e68b3"
+      ],
+      "56": [
+        "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "canton-network",
+    "rank": "22",
+    "symbol": "CC",
+    "name": "Canton",
+    "supply": "38046062518.692031860351562500",
+    "maxSupply": null,
+    "marketCapUsd": "5722508263.436468124389648438",
+    "volumeUsd24Hr": "7148378.469358242116868496",
+    "priceUsd": "0.150409999999999988",
+    "changePercent24Hr": "-0.2982898051173313",
+    "vwap24Hr": "0.15147169065458782",
+    "explorer": "https://www.cantonscan.com/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "stellar",
+    "rank": "23",
+    "symbol": "XLM",
+    "name": "Stellar",
+    "supply": "33016932537.520435333251953125",
+    "maxSupply": "50001806812.000000000000000000",
+    "marketCapUsd": "5585941204.730683326721191406",
+    "volumeUsd24Hr": "99064108.445704221725463867",
+    "priceUsd": "0.169184136000000013",
+    "changePercent24Hr": "2.7226083788706736",
+    "vwap24Hr": "0.16711599663487717",
+    "explorer": "https://dashboard.stellar.org/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "multi-collateral-dai",
+    "rank": "24",
+    "symbol": "DAI",
+    "name": "Dai",
+    "supply": "5365382702.664872169494628906",
+    "maxSupply": null,
+    "marketCapUsd": "5364309626.124339103698730469",
+    "volumeUsd24Hr": "26145880.873301096260547638",
+    "priceUsd": "0.999800000000000022",
+    "changePercent24Hr": "0.0010002100441158157",
+    "vwap24Hr": "0.9998377863505925",
+    "explorer": "https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "tokens": {
+      "1": [
+        "0x6b175474e89094c44da98b954eedeac495271d0f"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "bitcoin-bep2",
+    "rank": "25",
+    "symbol": "BTCB",
+    "name": "Bitcoin BEP2",
+    "supply": "65216.225183059999835677",
+    "maxSupply": null,
+    "marketCapUsd": "4713181508.459278106689453125",
+    "volumeUsd24Hr": "4771106.956354267895221710",
+    "priceUsd": "72270.075356700239353813",
+    "changePercent24Hr": "2.1431914453271146",
+    "vwap24Hr": "71528.42935545844",
+    "explorer": "https://explorer.binance.org/asset/BTCB-1DE",
+    "tokens": {
+      "56": [
+        "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "usd1",
+    "rank": "26",
+    "symbol": "USD1",
+    "name": "World Liberty Financial USD",
+    "supply": "4579595639.881041526794433594",
+    "maxSupply": null,
+    "marketCapUsd": "4576513440.479885101318359375",
+    "volumeUsd24Hr": "242966658.054737120866775513",
+    "priceUsd": "0.999326971277919029",
+    "changePercent24Hr": "0.002699017103879055",
+    "vwap24Hr": "0.9992515647499622",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+      ],
+      "56": [
+        "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "rain",
+    "rank": "27",
+    "symbol": "RAIN",
+    "name": "Rain",
+    "supply": "478059976423.913818359375000000",
+    "maxSupply": "1149996077984.000000000000000000",
+    "marketCapUsd": "4350728233.438754081726074219",
+    "volumeUsd24Hr": "22288778.438771814107894897",
+    "priceUsd": "0.009100799999999999",
+    "changePercent24Hr": "0.940550133096711",
+    "vwap24Hr": "0.00901618664395424",
+    "explorer": "https://arbiscan.io/token/0x25118290e6A5f4139381D072181157035864099d",
+    "tokens": {
+      "42161": [
+        "0x25118290e6a5f4139381d072181157035864099d"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "litecoin",
+    "rank": "28",
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "supply": "76952701.983471348881721497",
+    "maxSupply": "84000000.000000000000000000",
+    "marketCapUsd": "4294378158.688523769378662109",
+    "volumeUsd24Hr": "509409227.176442027091979980",
+    "priceUsd": "55.805423955235674782",
+    "changePercent24Hr": "2.076868401748076",
+    "vwap24Hr": "55.19058782330872",
+    "explorer": "http://explorer.litecoin.net/chain/Litecoin",
+    "tokens": {
+      "56": [
+        "0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "avalanche",
+    "rank": "29",
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "supply": "431771961.177211880683898926",
+    "maxSupply": "715748719.000000000000000000",
+    "marketCapUsd": "4265043432.508499145507812500",
+    "volumeUsd24Hr": "184574023.086595118045806885",
+    "priceUsd": "9.878000000000000114",
+    "changePercent24Hr": "2.743858043310934",
+    "vwap24Hr": "9.74645195375808",
+    "explorer": "https://avascan.info/",
+    "tokens": {
+      "56": [
+        "0x1ce0c2827e2ef14d5c4f29a091d735a204794041"
+      ],
+      "43114": [
+        "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "hedera-hashgraph",
+    "rank": "30",
+    "symbol": "HBAR",
+    "name": "Hedera",
+    "supply": "43303421565.159805297851562500",
+    "maxSupply": "50000000000.000000000000000000",
+    "marketCapUsd": "4156262401.824038028717041016",
+    "volumeUsd24Hr": "81472621.232259422540664673",
+    "priceUsd": "0.095979999999999996",
+    "changePercent24Hr": "3.6483315224681885",
+    "vwap24Hr": "0.09522205031163931",
+    "explorer": "https://app.dragonglass.me/hedera/home",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "paypal-usd",
+    "rank": "31",
+    "symbol": "PYUSD",
+    "name": "PayPal USD",
+    "supply": "4130893285.063527107238769531",
+    "maxSupply": null,
+    "marketCapUsd": "4128414749.092488765716552734",
+    "volumeUsd24Hr": "19131292.702997315675020218",
+    "priceUsd": "0.999399999999999955",
+    "changePercent24Hr": "0",
+    "vwap24Hr": "0.9995296178348779",
+    "explorer": "https://etherscan.io/token/0x6c3ea9036406852006290770bedfcaba0e23a0e8",
+    "tokens": {
+      "1": [
+        "0x6c3ea9036406852006290770bedfcaba0e23a0e8"
+      ],
+      "101": [
+        "2b1kv6dkpanxd5ixfnxcpjxmkwqjjaymczfhsfu24gxo"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "sui",
+    "rank": "32",
+    "symbol": "SUI",
+    "name": "Sui",
+    "supply": "3899984688.415443420410156250",
+    "maxSupply": "10000000000.000000000000000000",
+    "marketCapUsd": "3969862040.072576522827148438",
+    "volumeUsd24Hr": "288054718.115311861038208008",
+    "priceUsd": "1.017917339999999893",
+    "changePercent24Hr": "2.560941057934493",
+    "vwap24Hr": "1.0039578678842345",
+    "explorer": "https://suiexplorer.com/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "zcash",
+    "rank": "33",
+    "symbol": "ZEC",
+    "name": "Zcash",
+    "supply": "16580734.665544800460338593",
+    "maxSupply": "21000000.000000000000000000",
+    "marketCapUsd": "3851870470.152712821960449219",
+    "volumeUsd24Hr": "410587251.465937972068786621",
+    "priceUsd": "232.310000000000002274",
+    "changePercent24Hr": "9.404728265988508",
+    "vwap24Hr": "224.18880991610226",
+    "explorer": "https://explorer.zcha.in/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "shiba-inu",
+    "rank": "34",
+    "symbol": "SHIB",
+    "name": "Shiba Inu",
+    "supply": "589243705249192.250000000000000000",
+    "maxSupply": "589552695333683.000000000000000000",
+    "marketCapUsd": "3474770129.854486465454101563",
+    "volumeUsd24Hr": "63760245.056879267096519470",
+    "priceUsd": "0.000005897000000000",
+    "changePercent24Hr": "0.9587399417907889",
+    "vwap24Hr": "0.0000058486988582178945",
+    "explorer": "https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "tokens": {
+      "1": [
+        "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+      ],
+      "8453": [
+        "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "crypto-com-coin",
+    "rank": "35",
+    "symbol": "CRO",
+    "name": "Cronos",
+    "supply": "41106028738.237037658691406250",
+    "maxSupply": "100000000000.000000000000000000",
+    "marketCapUsd": "3214080387.042753696441650391",
+    "volumeUsd24Hr": "6915187.537049669772386551",
+    "priceUsd": "0.078189999999999996",
+    "changePercent24Hr": "1.0189672693804723",
+    "vwap24Hr": "0.07757688807686143",
+    "explorer": "https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "tokens": {
+      "1": [
+        "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+      ],
+      "101": [
+        "dvjmymvexgkxaixgkpzqthlog98nc7hsu7eanzsdcboa"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "toncoin",
+    "rank": "36",
+    "symbol": "TON",
+    "name": "Toncoin",
+    "supply": "2457202887.214624404907226563",
+    "maxSupply": null,
+    "marketCapUsd": "3210335572.145906925201416016",
+    "volumeUsd24Hr": "72615043.406491503119468689",
+    "priceUsd": "1.306499999999999995",
+    "changePercent24Hr": "0.4381918819188222",
+    "vwap24Hr": "1.2966009255637272",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x582d872a1b094fc48f5de31d3b73f2d9be47def1"
+      ],
+      "56": [
+        "0x76a797a59ba2c17726896976b7b3747bfd1d220f"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "bittensor",
+    "rank": "37",
+    "symbol": "TAO",
+    "name": "Bittensor",
+    "supply": "10769036.366700680926442146",
+    "maxSupply": "21000000.000000000000000000",
+    "marketCapUsd": "3050329550.867968082427978516",
+    "volumeUsd24Hr": "526898251.700543284416198730",
+    "priceUsd": "283.250000000000000000",
+    "changePercent24Hr": "16.539806624151403",
+    "vwap24Hr": "270.6638549584066",
+    "explorer": "https://bittensor.com/scan",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "world-liberty-financial-wlfi",
+    "rank": "38",
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "supply": "27661793845.000000000000000000",
+    "maxSupply": "100000000000.000000000000000000",
+    "marketCapUsd": "2883742008.341249942779541016",
+    "volumeUsd24Hr": "49407665.793301016092300415",
+    "priceUsd": "0.104249999999999995",
+    "changePercent24Hr": "0.5303760848601686",
+    "vwap24Hr": "0.10386498033441482",
+    "explorer": "https://solscan.io/token/WLFinEv6ypjkczcS83FZqFpgFZYwQXutRbxGe7oC16g",
+    "tokens": {
+      "1": [
+        "0xda5e1988097297dcdc1f90d4dfe7909e847cbef6"
+      ],
+      "56": [
+        "0x47474747477b199288bf72a1d702f7fe0fb1deea"
+      ],
+      "101": [
+        "wlfinev6ypjkczcs83fzqfpgfzywqxutrbxge7oc16g"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "mantle",
+    "rank": "39",
+    "symbol": "MNT",
+    "name": "Mantle",
+    "supply": "3277944055.536839962005615234",
+    "maxSupply": "6219316795.000000000000000000",
+    "marketCapUsd": "2638744964.707156181335449219",
+    "volumeUsd24Hr": "79617418.881852790713310242",
+    "priceUsd": "0.805000000000000049",
+    "changePercent24Hr": "3.0465949820788585",
+    "vwap24Hr": "0.7841031495524453",
+    "explorer": "https://mantlescan.xyz/",
+    "tokens": {
+      "1": [
+        "0x3c3a81e81dc49a522a592e7622a7e711c06bf354"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "uniswap",
+    "rank": "40",
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "supply": "633549562.746530294418334961",
+    "maxSupply": null,
+    "marketCapUsd": "2563202149.968657016754150391",
+    "volumeUsd24Hr": "126712432.023145124316215515",
+    "priceUsd": "4.045779999999999710",
+    "changePercent24Hr": "3.2086734693877497",
+    "vwap24Hr": "3.9657325183438785",
+    "explorer": "https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "tokens": {
+      "1": [
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+      ],
+      "10": [
+        "0x6fd9d7ad17242c41f7131d257212c54a0e816691"
+      ],
+      "56": [
+        "0xbf5140a22578168fd562dccf235e5d43a02ce9b1"
+      ],
+      "130": [
+        "0x8f187aa05619a017077f5308904739877ce9ea21"
+      ],
+      "42161": [
+        "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0"
+      ],
+      "43114": [
+        "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "pax-gold",
+    "rank": "41",
+    "symbol": "PAXG",
+    "name": "PAX Gold",
+    "supply": "500365.129000000015366822",
+    "maxSupply": null,
+    "marketCapUsd": "2508020165.297019958496093750",
+    "volumeUsd24Hr": "145803305.229810327291488647",
+    "priceUsd": "5012.380000000000109139",
+    "changePercent24Hr": "-0.1840958003909729",
+    "vwap24Hr": "5009.959046765537",
+    "explorer": "https://etherscan.io/token/0x45804880de22913dafe09f4980848ece6ecbaf78",
+    "tokens": {
+      "1": [
+        "0x45804880de22913dafe09f4980848ece6ecbaf78"
+      ],
+      "137": [
+        "0x553d3d295e0f695b9228246232edf400ed3560b5"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "polkadot",
+    "rank": "42",
+    "symbol": "DOT",
+    "name": "Polkadot",
+    "supply": "1673933922.784044742584228516",
+    "maxSupply": "2100000000.000000000000000000",
+    "marketCapUsd": "2395399443.503968238830566406",
+    "volumeUsd24Hr": "98567490.879214435815811157",
+    "priceUsd": "1.431000000000000050",
+    "changePercent24Hr": "1.4318117380209807",
+    "vwap24Hr": "1.4201070313561261",
+    "explorer": "https://polkascan.io/polkadot",
+    "tokens": {
+      "56": [
+        "0x7083609fce4d1d8dc0c979aab8c869ea2c873402"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "okb",
+    "rank": "43",
+    "symbol": "OKB",
+    "name": "OKB",
+    "supply": "21000000.000000000000000000",
+    "maxSupply": "21000000.000000000000000000",
+    "marketCapUsd": "2029650000.000000238418579102",
+    "volumeUsd24Hr": "93218660.626542791724205017",
+    "priceUsd": "96.650000000000005684",
+    "changePercent24Hr": "-0.3094378545642054",
+    "vwap24Hr": "96.5410426106242",
+    "explorer": "https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+    "tokens": {
+      "1": [
+        "0x75231f58b43240c9718dd58b4967c5114342a86c"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "pi",
+    "rank": "44",
+    "symbol": "PI",
+    "name": "Pi",
+    "supply": "9704029999.922504425048828125",
+    "maxSupply": "100000000000.000000000000000000",
+    "marketCapUsd": "1888404237.984919309616088867",
+    "volumeUsd24Hr": "52543279.026089131832122803",
+    "priceUsd": "0.194599999999999995",
+    "changePercent24Hr": "-2.942643391521205",
+    "vwap24Hr": "0.19630949146820023",
+    "explorer": "https://blockexplorer.minepi.com/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "memecore",
+    "rank": "45",
+    "symbol": "M",
+    "name": "MemeCore",
+    "supply": "1279082764.121752738952636719",
+    "maxSupply": "10000000000.000000000000000000",
+    "marketCapUsd": "1874701723.145452260971069336",
+    "volumeUsd24Hr": "6512740.501739474013447762",
+    "priceUsd": "1.465661000000000103",
+    "changePercent24Hr": "-3.8204451794104393",
+    "vwap24Hr": "1.4847632689275452",
+    "explorer": "https://memecorescan.io/",
+    "tokens": {
+      "56": [
+        "0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "aave",
+    "rank": "46",
+    "symbol": "AAVE",
+    "name": "Aave",
+    "supply": "15374663.284856749698519707",
+    "maxSupply": null,
+    "marketCapUsd": "1784383420.840474367141723633",
+    "volumeUsd24Hr": "421591532.103658080101013184",
+    "priceUsd": "116.060000000000002274",
+    "changePercent24Hr": "4.950732783812536",
+    "vwap24Hr": "112.99729867096441",
+    "explorer": "https://etherscan.io/token/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+    "tokens": {
+      "1": [
+        "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
+      ],
+      "56": [
+        "0xfb6115445bff7b52feb98650c87f44907e58f802"
+      ],
+      "137": [
+        "0xd6df932a45c0f255f85145f286ea0b292b21c90b"
+      ],
+      "43114": [
+        "0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "aster",
+    "rank": "47",
+    "symbol": "ASTER",
+    "name": "Aster",
+    "supply": "2476688843.784353256225585938",
+    "maxSupply": "8000000000.000000000000000000",
+    "marketCapUsd": "1771575529.958947896957397461",
+    "volumeUsd24Hr": "102522829.891575485467910767",
+    "priceUsd": "0.715300000000000047",
+    "changePercent24Hr": "0.7748661594815526",
+    "vwap24Hr": "0.7142935322763072",
+    "explorer": "https://bscscan.com/token/0x000Ae314E2A2172a039B26378814C252734f556A",
+    "tokens": {
+      "56": [
+        "0x000ae314e2a2172a039b26378814c252734f556a"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "global-dollar-usdg",
+    "rank": "48",
+    "symbol": "USDG",
+    "name": "Global Dollar",
+    "supply": "1767418666.432591915130615234",
+    "maxSupply": null,
+    "marketCapUsd": "1767627439.075516462326049805",
+    "volumeUsd24Hr": "10310910.643751919269561768",
+    "priceUsd": "1.000118122913879803",
+    "changePercent24Hr": "0.02181447283526277",
+    "vwap24Hr": "0.9999578805827222",
+    "explorer": "https://solscan.io/token/2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+    "tokens": {
+      "1": [
+        "0xe343167631d89b6ffc58b88d6b7fb0228795491d"
+      ],
+      "101": [
+        "2u1tszseqz3qbwf3ungpfc8tzmk2tdiwknnrmwgwjgwh"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "near-protocol",
+    "rank": "49",
+    "symbol": "NEAR",
+    "name": "NEAR Protocol",
+    "supply": "1290265467.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "1744960178.632668018341064453",
+    "volumeUsd24Hr": "145510931.598599910736083984",
+    "priceUsd": "1.352403999999999940",
+    "changePercent24Hr": "3.3158135981665393",
+    "vwap24Hr": "1.342344347857352",
+    "explorer": "https://explorer.nearprotocol.com/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "sky",
+    "rank": "50",
+    "symbol": "SKY",
+    "name": "Sky",
+    "supply": "23041422296.651298522949218750",
+    "maxSupply": "23462665147.000000000000000000",
+    "marketCapUsd": "1686401697.891908645629882813",
+    "volumeUsd24Hr": "19108738.250581610947847366",
+    "priceUsd": "0.073190000000000005",
+    "changePercent24Hr": "1.4273835920177427",
+    "vwap24Hr": "0.07354533767013961",
+    "explorer": "https://etherscan.io/token/0x56072C95FAA701256059aa122697B133aDEd9279",
+    "tokens": {
+      "1": [
+        "0x56072c95faa701256059aa122697b133aded9279"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "falcon-finance",
+    "rank": "51",
+    "symbol": "USDf",
+    "name": "Falcon USD",
+    "supply": "1639161511.244252681732177734",
+    "maxSupply": null,
+    "marketCapUsd": "1634539660.743418931961059570",
+    "volumeUsd24Hr": "485017.804999999934807420",
+    "priceUsd": "0.997180356865916551",
+    "changePercent24Hr": "-0.005818067485545424",
+    "vwap24Hr": "0.9972444426003154",
+    "explorer": "https://etherscan.io/token/0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2",
+    "tokens": {
+      "1": [
+        "0xfa2b947eec368f42195f24f36d2af29f7c24cec2"
+      ],
+      "56": [
+        "0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "ripple-usd",
+    "rank": "52",
+    "symbol": "RLUSD",
+    "name": "Ripple USD",
+    "supply": "1552628407.127281427383422852",
+    "maxSupply": null,
+    "marketCapUsd": "1552628407.127281427383422852",
+    "volumeUsd24Hr": "35852041.303826011717319489",
+    "priceUsd": "1.000000000000000000",
+    "changePercent24Hr": "-0.00099999000010655",
+    "vwap24Hr": "0.9999404573736776",
+    "explorer": "https://livenet.xrpl.org/accounts/rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De/transactions",
+    "tokens": {
+      "1": [
+        "0x8292bb45bf1ee4d140127049757c2e0ff06317ed"
+      ],
+      "1600": [
+        "rmxckbedwqr76quhesumdegf4b9xj8m5de"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "bitget-token-new",
+    "rank": "53",
+    "symbol": "BGB",
+    "name": "Bitget Token",
+    "supply": "699983497.176169395446777344",
+    "maxSupply": "919992035.980000019073486328",
+    "marketCapUsd": "1515324274.686971664428710938",
+    "volumeUsd24Hr": "12863568.669342458248138428",
+    "priceUsd": "2.164800000000000058",
+    "changePercent24Hr": "-0.07385524372229615",
+    "vwap24Hr": "2.1682224214203747",
+    "explorer": "https://etherscan.io/token/0x54D2252757e1672EEaD234D27B1270728fF90581",
+    "tokens": {
+      "1": [
+        "0x54d2252757e1672eead234d27b1270728ff90581"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "internet-computer",
+    "rank": "54",
+    "symbol": "ICP",
+    "name": "Internet Computer",
+    "supply": "550493835.774576663970947266",
+    "maxSupply": null,
+    "marketCapUsd": "1472020516.861217975616455078",
+    "volumeUsd24Hr": "61565040.717537499964237213",
+    "priceUsd": "2.673999999999999932",
+    "changePercent24Hr": "-0.22388059701493385",
+    "vwap24Hr": "2.674888584874608",
+    "explorer": "https://www.dfinityexplorer.org/#/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "pepe",
+    "rank": "55",
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "supply": "413772497733101.750000000000000000",
+    "maxSupply": "413772497733101.750000000000000000",
+    "marketCapUsd": "1408895354.781211376190185547",
+    "volumeUsd24Hr": "217048316.368301302194595337",
+    "priceUsd": "0.000003405000000000",
+    "changePercent24Hr": "2.1908763505402153",
+    "vwap24Hr": "0.0000033599888920796676",
+    "explorer": "https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "tokens": {
+      "1": [
+        "0x6982508145454ce325ddbe47a25d4ec3d2311933"
+      ],
+      "42161": [
+        "0x25d887ce7a35172c62febfd67a1856f20faebb00"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "ondo-us-dollar-yield",
+    "rank": "56",
+    "symbol": "USDY",
+    "name": "Ondo US Dollar Yield",
+    "supply": "1170556747.325868368148803711",
+    "maxSupply": null,
+    "marketCapUsd": "1318046897.488927602767944336",
+    "volumeUsd24Hr": "1539.973899999999957799",
+    "priceUsd": "1.125999999999999890",
+    "changePercent24Hr": "0.01776514478592805",
+    "vwap24Hr": "1.1259948052069935",
+    "explorer": "https://solscan.io/token/A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
+    "tokens": {
+      "1": [
+        "0x96f6ef951840721adbf46ac996b59e0235cb985c"
+      ],
+      "101": [
+        "a1klobrkbde8ty9qtnqutq3c2ortoc3u7twggz7seto6"
+      ],
+      "42161": [
+        "0x35e050d3c0ec2d29d269a8ecea763a183bdf9a9d"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "ethereum-classic",
+    "rank": "57",
+    "symbol": "ETC",
+    "name": "Ethereum Classic",
+    "supply": "155911344.301351010799407959",
+    "maxSupply": "210700000.000000000000000000",
+    "marketCapUsd": "1311128149.182240724563598633",
+    "volumeUsd24Hr": "57010020.124819099903106689",
+    "priceUsd": "8.409446759999999799",
+    "changePercent24Hr": "2.329602823071305",
+    "vwap24Hr": "8.297470371077639",
+    "explorer": "http://gastracker.io/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "ondo-finance",
+    "rank": "58",
+    "symbol": "ONDO",
+    "name": "Ondo",
+    "supply": "4869330647.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "1308048291.703609943389892578",
+    "volumeUsd24Hr": "50764452.137085922062397003",
+    "priceUsd": "0.268629999999999980",
+    "changePercent24Hr": "3.5981488623216373",
+    "vwap24Hr": "0.2646069163621607",
+    "explorer": "https://etherscan.io/token/0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+    "tokens": {
+      "1": [
+        "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "tether-gold",
+    "rank": "59",
+    "symbol": "XAUT",
+    "name": "Tether Gold",
+    "supply": "246524.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "1228478396.799999952316284180",
+    "volumeUsd24Hr": "238455017.249586850404739380",
+    "priceUsd": "4983.199999999999818101",
+    "changePercent24Hr": "-0.16772635420411589",
+    "vwap24Hr": "4980.206214640676",
+    "explorer": "https://etherscan.io/token/0x4922a015c4407f87432b179bb209e125432e4a2a",
+    "tokens": {
+      "1": [
+        "0x68749665ff8d2d112fa859aa293f07a622782f38"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "jupiter-perps-lp",
+    "rank": "60",
+    "symbol": "JLP",
+    "name": "Jupiter Perps LP",
+    "supply": "301317876.323270976543426514",
+    "maxSupply": null,
+    "marketCapUsd": "1172106188.999401807785034180",
+    "volumeUsd24Hr": "5198781.101422511041164398",
+    "priceUsd": "3.889932463687947983",
+    "changePercent24Hr": "2.4895380963740967",
+    "vwap24Hr": "3.823799594295868",
+    "explorer": "https://solscan.io/token/27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+    "tokens": {
+      "101": [
+        "27g8mtk7vttcchkpasjsddkwwyfoqt6ggeukidvjidd4"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "usdd",
+    "rank": "61",
+    "symbol": "USDD",
+    "name": "USDD",
+    "supply": "1116365869.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "1116254232.413100004196166992",
+    "volumeUsd24Hr": "1701783.492557314690202475",
+    "priceUsd": "0.999900000000000011",
+    "changePercent24Hr": "0.10011012113324666",
+    "vwap24Hr": "0.9993433015920836",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x3d7975eccfc61a2102b08925cbba0a4d4dbb6555"
+      ],
+      "56": [
+        "0x392004bee213f1ff580c867359c246924f21e6ad"
+      ],
+      "397": [
+        "0c10bf8fcb7bf5412187a595ab97a3609160b5c6.factory.bridge.near"
+      ],
+      "728126428": [
+        "txdk8mbtrbxeyumns83cfkpayyt8xwv9hz"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "kucoin-token",
+    "rank": "62",
+    "symbol": "KCS",
+    "name": "KuCoin Token",
+    "supply": "132155021.735567152500152588",
+    "maxSupply": "200000000.000000000000000000",
+    "marketCapUsd": "1100058400.926861047744750977",
+    "volumeUsd24Hr": "2237809.489377827383577824",
+    "priceUsd": "8.323999999999999844",
+    "changePercent24Hr": "2.3900020910980744",
+    "vwap24Hr": "8.206488578044787",
+    "explorer": "https://etherscan.io/token/0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "wbnb",
+    "rank": "63",
+    "symbol": "WBNB",
+    "name": "Wrapped BNB",
+    "supply": "1582884.539848040090873837",
+    "maxSupply": null,
+    "marketCapUsd": "1061868893.413150668144226074",
+    "volumeUsd24Hr": "95931882.384346261620521545",
+    "priceUsd": "670.844187735317746046",
+    "changePercent24Hr": "2.4632621720475294",
+    "vwap24Hr": "659.9832659849408",
+    "explorer": "https://bscscan.com/token/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "tokens": {
+      "1": [
+        "0x418d75f65a02b3d53b2418fb8e1fe493759c7605"
+      ],
+      "56": [
+        "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+      ],
+      "101": [
+        "9gp2kcy3wa1ctvywqk75guqxuhfreomqydhltctcqila"
+      ],
+      "137": [
+        "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d"
+      ],
+      "43114": [
+        "0x442f7f22b1ee2c842beaff52880d4573e9201158"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "worldcoin-org",
+    "rank": "64",
+    "symbol": "WLD",
+    "name": "Worldcoin",
+    "supply": "2919142043.736522674560546875",
+    "maxSupply": null,
+    "marketCapUsd": "1057313248.241368532180786133",
+    "volumeUsd24Hr": "47556305.315703846514225006",
+    "priceUsd": "0.362200000000000022",
+    "changePercent24Hr": "2.4900962082626004",
+    "vwap24Hr": "0.3589739349316821",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x163f8c2467924be0ae7b5347228cabf260318753"
+      ],
+      "10": [
+        "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1"
+      ],
+      "480": [
+        "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "polygon-ecosystem-token",
+    "rank": "65",
+    "symbol": "POL",
+    "name": "Polygon (prev. MATIC)",
+    "supply": "10608256021.524450302124023438",
+    "maxSupply": null,
+    "marketCapUsd": "1027940008.485719203948974609",
+    "volumeUsd24Hr": "42902058.220761060714721680",
+    "priceUsd": "0.096900000000000000",
+    "changePercent24Hr": "0.7276507276507341",
+    "vwap24Hr": "0.09629250517721502",
+    "explorer": "https://etherscan.io/token/0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+    "tokens": {
+      "1": [
+        "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "united-stables",
+    "rank": "66",
+    "symbol": "U",
+    "name": "United Stables",
+    "supply": "1004899973.048467159271240234",
+    "maxSupply": null,
+    "marketCapUsd": "1004654573.758212566375732422",
+    "volumeUsd24Hr": "30373056.789990134537220001",
+    "priceUsd": "0.999755797296411397",
+    "changePercent24Hr": "0.0005798746097893974",
+    "vwap24Hr": "0.9997622336677301",
+    "explorer": "https://bscscan.com/token/0xcE24439F2D9C6a2289F741120FE202248B666666",
+    "tokens": {
+      "56": [
+        "0xce24439f2d9c6a2289f741120fe202248b666666"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "render",
+    "rank": "67",
+    "symbol": "RENDER",
+    "name": "Render",
+    "supply": "518743261.014074146747589111",
+    "maxSupply": "644168762.000000000000000000",
+    "marketCapUsd": "976274817.228487491607666016",
+    "volumeUsd24Hr": "107667139.842382624745368958",
+    "priceUsd": "1.881999999999999895",
+    "changePercent24Hr": "3.6400682856985416",
+    "vwap24Hr": "1.8619181213180747",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24"
+      ],
+      "137": [
+        "0x61299774020da444af134c82fa83e3810b309991"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "polygon",
+    "rank": "68",
+    "symbol": "MATIC",
+    "name": "Polygon",
+    "supply": "10000000000.000000000000000000",
+    "maxSupply": "10000000000.000000000000000000",
+    "marketCapUsd": "975950336.979682087898254395",
+    "volumeUsd24Hr": "3848032.341919183731079102",
+    "priceUsd": "0.097595033697968209",
+    "changePercent24Hr": "-29.176318071140635",
+    "vwap24Hr": "0.10690728875779912",
+    "explorer": "https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "tokens": {
+      "1": [
+        "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+      ],
+      "56": [
+        "0xcc42724c6683b7e57334c4e856f4c9965ed682bd"
+      ],
+      "137": [
+        "0x0000000000000000000000000000000000001010"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "official-trump",
+    "rank": "69",
+    "symbol": "TRUMP",
+    "name": "OFFICIAL TRUMP",
+    "supply": "232497972.432945996522903442",
+    "maxSupply": "999999993.450000047683715820",
+    "marketCapUsd": "942663029.229379534721374512",
+    "volumeUsd24Hr": "315497932.991669535636901855",
+    "priceUsd": "4.054499999999999993",
+    "changePercent24Hr": "1.413206603301645",
+    "vwap24Hr": "4.01219736730703",
+    "explorer": "https://solscan.io/token/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "tokens": {
+      "101": [
+        "6p6xghyf7aee6tzksmfsko444wqop15icusqi2jfgipn"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "ethena",
+    "rank": "70",
+    "symbol": "ENA",
+    "name": "Ethena",
+    "supply": "8492187500.000000000000000000",
+    "maxSupply": "15000000000.000000000000000000",
+    "marketCapUsd": "934989843.750000000000000000",
+    "volumeUsd24Hr": "57878761.947339899837970734",
+    "priceUsd": "0.110100000000000003",
+    "changePercent24Hr": "2.801120448179274",
+    "vwap24Hr": "0.10851870955382516",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x57e114b691db790c35207b2e685d4a43181e6061"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "cosmos",
+    "rank": "71",
+    "symbol": "ATOM",
+    "name": "Cosmos",
+    "supply": "497900100.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "927089986.200000047683715820",
+    "volumeUsd24Hr": "23524777.769513342529535294",
+    "priceUsd": "1.862000000000000099",
+    "changePercent24Hr": "-0.2995849739292151",
+    "vwap24Hr": "1.8566943305490713",
+    "explorer": "https://www.mintscan.io/",
+    "tokens": {
+      "1": [
+        "0x8d983cb9388eac77af0474fa441c4815500cb7bb"
+      ],
+      "56": [
+        "0x0eb3a705fc54725037cc9e008bdede697f62f335"
+      ],
+      "137": [
+        "0xac51c4c48dc3116487ed4bc16542e27b5694da1b"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "rocket-pool-eth",
+    "rank": "72",
+    "symbol": "RETH",
+    "name": "Rocket Pool ETH",
+    "supply": "347074.071800090023316443",
+    "maxSupply": null,
+    "marketCapUsd": "865220857.106668710708618164",
+    "volumeUsd24Hr": "405774.995326314819976687",
+    "priceUsd": "2492.899722008114167693",
+    "changePercent24Hr": "3.205501257665131",
+    "vwap24Hr": "2443.911336522847",
+    "explorer": "https://etherscan.io/token/0xae78736cd615f374d3085123a210448e74fc6393",
+    "tokens": {
+      "1": [
+        "0xae78736cd615f374d3085123a210448e74fc6393"
+      ],
+      "10": [
+        "0x9bcef72be871e61ed4fbbc7630889bee758eb81d"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "kaspa",
+    "rank": "73",
+    "symbol": "KAS",
+    "name": "Kaspa",
+    "supply": "27283521488.097526550292968750",
+    "maxSupply": "28704026601.000000000000000000",
+    "marketCapUsd": "836785604.039951086044311523",
+    "volumeUsd24Hr": "9683080.717913795262575150",
+    "priceUsd": "0.030669999999999999",
+    "changePercent24Hr": "0.22875816993464254",
+    "vwap24Hr": "0.030509288355094227",
+    "explorer": "https://explorer.kaspa.org/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "midnight-network",
+    "rank": "74",
+    "symbol": "NIGHT",
+    "name": "Midnight",
+    "supply": "16607399401.000000000000000000",
+    "maxSupply": "24000000000.000000000000000000",
+    "marketCapUsd": "833608412.933195114135742188",
+    "volumeUsd24Hr": "141545685.991568535566329956",
+    "priceUsd": "0.050195000000000004",
+    "changePercent24Hr": "0.49049049049049476",
+    "vwap24Hr": "0.05057312376196351",
+    "explorer": "https://cardanoscan.io/token/0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa4e49474854",
+    "tokens": {
+      "56": [
+        "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "gatetoken",
+    "rank": "75",
+    "symbol": "GT",
+    "name": "GateToken",
+    "supply": "115180573.048858016729354858",
+    "maxSupply": "115180573.048858016729354858",
+    "marketCapUsd": "827572417.356044769287109375",
+    "volumeUsd24Hr": "1223992.396052672760561109",
+    "priceUsd": "7.184999999999999609",
+    "changePercent24Hr": "0.7899171069830541",
+    "vwap24Hr": "7.148603310468752",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0xe66747a101bff2dba3697199dcce5b743b454759"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "algorand",
+    "rank": "76",
+    "symbol": "ALGO",
+    "name": "Algorand",
+    "supply": "8890289951.965234756469726563",
+    "maxSupply": "10000000000.000000000000000000",
+    "marketCapUsd": "821907306.059185981750488281",
+    "volumeUsd24Hr": "27658875.236488584429025650",
+    "priceUsd": "0.092450000000000004",
+    "changePercent24Hr": "2.041942604856517",
+    "vwap24Hr": "0.09110339227662823",
+    "explorer": "https://algoexplorer.io/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "quant",
+    "rank": "77",
+    "symbol": "QNT",
+    "name": "Quant",
+    "supply": "12072738.000000000000000000",
+    "maxSupply": "14881364.000000000000000000",
+    "marketCapUsd": "810322174.560000061988830566",
+    "volumeUsd24Hr": "8170637.935710540041327477",
+    "priceUsd": "67.120000000000004547",
+    "changePercent24Hr": "0.09459828771623334",
+    "vwap24Hr": "66.63571577485594",
+    "explorer": "https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675",
+    "tokens": {
+      "1": [
+        "0x4a220e6096b25eadb88358cb44068a3248254675"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "morpho",
+    "rank": "78",
+    "symbol": "MORPHO",
+    "name": "Morpho",
+    "supply": "402586499.275597989559173584",
+    "maxSupply": "1000000000.000000000000000000",
+    "marketCapUsd": "780172376.946181297302246094",
+    "volumeUsd24Hr": "12046354.572751414030790329",
+    "priceUsd": "1.937899999999999956",
+    "changePercent24Hr": "3.003082810672903",
+    "vwap24Hr": "1.8791075471404892",
+    "explorer": "https://etherscan.io/token/0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+    "tokens": {
+      "1": [
+        "0x58D97B57BB95320F9a05dC918Aef65434969c2B2"
+      ],
+      "8453": [
+        "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "six-domain-chain",
+    "rank": "79",
+    "symbol": "SDA",
+    "name": "Six Domain Chain",
+    "supply": "713593330.977444052696228027",
+    "maxSupply": null,
+    "marketCapUsd": "777559837.166262149810791016",
+    "volumeUsd24Hr": "43116.161295199999585748",
+    "priceUsd": "1.089639999999999942",
+    "changePercent24Hr": "2.737104119327546",
+    "vwap24Hr": "1.0741590899166857",
+    "explorer": "https://etherscan.io/token/0x4212fea9fec90236ecc51e41e2096b16ceb84555",
+    "tokens": {
+      "1": [
+        "0x4212fea9fec90236ecc51e41e2096b16ceb84555"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "flare",
+    "rank": "80",
+    "symbol": "FLR",
+    "name": "Flare",
+    "supply": "85217816737.004623413085937500",
+    "maxSupply": null,
+    "marketCapUsd": "747530688.417004585266113281",
+    "volumeUsd24Hr": "2911674.502363745123147964",
+    "priceUsd": "0.008772000000000000",
+    "changePercent24Hr": "1.1181556195965403",
+    "vwap24Hr": "0.008695942919564104",
+    "explorer": "https://flare-explorer.flare.network/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "aptos",
+    "rank": "81",
+    "symbol": "APT",
+    "name": "Aptos",
+    "supply": "793257578.633121371269226074",
+    "maxSupply": "2100000000.000000000000000000",
+    "marketCapUsd": "738536735.310516834259033203",
+    "volumeUsd24Hr": "61342964.633407503366470337",
+    "priceUsd": "0.931017560000000022",
+    "changePercent24Hr": "1.9734457831325287",
+    "vwap24Hr": "0.9237315566667983",
+    "explorer": "https://explorer.aptoslabs.com/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "filecoin",
+    "rank": "82",
+    "symbol": "FIL",
+    "name": "Filecoin",
+    "supply": "761626558.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "682874371.902799963951110840",
+    "volumeUsd24Hr": "63831075.384931057691574097",
+    "priceUsd": "0.896599999999999953",
+    "changePercent24Hr": "1.3680045223289994",
+    "vwap24Hr": "0.8849380336099946",
+    "explorer": "https://protocol.ai",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "layerzero",
+    "rank": "83",
+    "symbol": "ZRO",
+    "name": "LayerZero",
+    "supply": "304494477.246427237987518311",
+    "maxSupply": "1000000000.000000000000000000",
+    "marketCapUsd": "662884476.965472102165222168",
+    "volumeUsd24Hr": "62245699.101857386529445648",
+    "priceUsd": "2.177000000000000046",
+    "changePercent24Hr": "10.802541882951648",
+    "vwap24Hr": "2.0525984962746917",
+    "explorer": "https://layerzeroscan.com/",
+    "tokens": {
+      "1": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ],
+      "10": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ],
+      "56": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ],
+      "137": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ],
+      "8453": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ],
+      "42161": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ],
+      "43114": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "pump-fun",
+    "rank": "84",
+    "symbol": "PUMP",
+    "name": "Pump.fun",
+    "supply": "332096631123.135803222656250000",
+    "maxSupply": "1000000000000.000000000000000000",
+    "marketCapUsd": "646592140.796745419502258301",
+    "volumeUsd24Hr": "60463951.970722302794456482",
+    "priceUsd": "0.001947000000000000",
+    "changePercent24Hr": "-1.1675126903553308",
+    "vwap24Hr": "0.001983317726941336",
+    "explorer": null,
+    "tokens": {
+      "101": [
+        "pumpcmxqmfrsakq5r49wcjnrayyrqmxz6ae8h7h9dfn"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "xinfin-network",
+    "rank": "85",
+    "symbol": "XDC",
+    "name": "XDC Network",
+    "supply": "19937900371.169998168945312500",
+    "maxSupply": null,
+    "marketCapUsd": "632609640.876852869987487793",
+    "volumeUsd24Hr": "7494137.041563001461327076",
+    "priceUsd": "0.031729000000000000",
+    "changePercent24Hr": "1.2089314194577268",
+    "vwap24Hr": "0.03175104268910214",
+    "explorer": "https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "vechain",
+    "rank": "86",
+    "symbol": "VET",
+    "name": "VeChain",
+    "supply": "85985041177.000000000000000000",
+    "maxSupply": "86712634466.000000000000000000",
+    "marketCapUsd": "632333992.815657973289489746",
+    "volumeUsd24Hr": "21523510.277917858213186264",
+    "priceUsd": "0.007354000000000000",
+    "changePercent24Hr": "3.7381859218507616",
+    "vwap24Hr": "0.007251091481512761",
+    "explorer": "https://explore.veforge.com/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "beldex",
+    "rank": "87",
+    "symbol": "BDX",
+    "name": "Beldex",
+    "supply": "7606230234.049423217773437500",
+    "maxSupply": null,
+    "marketCapUsd": "615876462.050981760025024414",
+    "volumeUsd24Hr": "10348094.511575356125831604",
+    "priceUsd": "0.080970000000000000",
+    "changePercent24Hr": "-0.41815274873938396",
+    "vwap24Hr": "0.08085370709227978",
+    "explorer": "https://explorer.beldex.io/",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "arbitrum",
+    "rank": "88",
+    "symbol": "ARB",
+    "name": "Arbitrum",
+    "supply": "5939074958.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "612912535.665599942207336426",
+    "volumeUsd24Hr": "47756699.174737773835659027",
+    "priceUsd": "0.103200000000000000",
+    "changePercent24Hr": "2.994011976047907",
+    "vwap24Hr": "0.10185524966039264",
+    "explorer": "https://arbiscan.io/token/0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "tokens": {
+      "1": [
+        "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1"
+      ],
+      "42161": [
+        "0x912ce59144191c1204e64559fe8253a0e49e6548"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "stable",
+    "rank": "89",
+    "symbol": "STABLE",
+    "name": "Stable",
+    "supply": "20896316872.000000000000000000",
+    "maxSupply": "100000000000.000000000000000000",
+    "marketCapUsd": "587896978.876847982406616211",
+    "volumeUsd24Hr": "17900984.983188387006521225",
+    "priceUsd": "0.028133999999999999",
+    "changePercent24Hr": "-2.0744865993734747",
+    "vwap24Hr": "0.02860768829964329",
+    "explorer": "https://stablescan.xyz/token/0x0000000000000000000000000000000000001003",
+    "tokens": {
+      "56": [
+        "0x011ebe7d75e2c9d1e0bd0be0bef5c36f0a90075f"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "nexo",
+    "rank": "90",
+    "symbol": "NEXO",
+    "name": "Nexo",
+    "supply": "646145839.574684739112854004",
+    "maxSupply": "1000000000.000000000000000000",
+    "marketCapUsd": "585408130.654664397239685059",
+    "volumeUsd24Hr": "3422175.882812310010194778",
+    "priceUsd": "0.906000000000000028",
+    "changePercent24Hr": "0.44345898004434625",
+    "vwap24Hr": "0.902364981775207",
+    "explorer": "https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "tokens": {
+      "1": [
+        "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
+      ],
+      "56": [
+        "nexo-a84"
+      ],
+      "137": [
+        "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "gho",
+    "rank": "91",
+    "symbol": "GHO",
+    "name": "GHO",
+    "supply": "584000000.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "583869196.892724633216857910",
+    "volumeUsd24Hr": "513503.056133769685402513",
+    "priceUsd": "0.999776022076583337",
+    "changePercent24Hr": "0.00029216208307047395",
+    "vwap24Hr": "0.9996689160831866",
+    "explorer": "https://etherscan.io/token/0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+    "tokens": {
+      "1": [
+        "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "usual-usd",
+    "rank": "92",
+    "symbol": "USD0",
+    "name": "Usual USD",
+    "supply": "571146055.819353938102722168",
+    "maxSupply": null,
+    "marketCapUsd": "570295146.566688895225524902",
+    "volumeUsd24Hr": "981.848397466582810011",
+    "priceUsd": "0.998510172233537885",
+    "changePercent24Hr": "-0.00007093423090683495",
+    "vwap24Hr": "0.9985104924053708",
+    "explorer": "https://etherscan.io/address/0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
+    "tokens": {
+      "1": [
+        "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5"
+      ],
+      "42161": [
+        "0x35f1c5cb7fb977e669fd244c567da99d8a3a6850"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "usdai",
+    "rank": "93",
+    "symbol": "USDAI",
+    "name": "USDai",
+    "supply": "501351126.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "501355704.984233200550079346",
+    "volumeUsd24Hr": "21897.580000000001746230",
+    "priceUsd": "1.000009133288020546",
+    "changePercent24Hr": "0.009378316724690666",
+    "vwap24Hr": "0.9998718534923873",
+    "explorer": "https://arbiscan.io/token/0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+    "tokens": {
+      "42161": [
+        "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "pancakeswap",
+    "rank": "94",
+    "symbol": "CAKE",
+    "name": "PancakeSwap",
+    "supply": "330006933.905859589576721191",
+    "maxSupply": "400000000.000000000000000000",
+    "marketCapUsd": "498310470.197847962379455566",
+    "volumeUsd24Hr": "98910447.450040638446807861",
+    "priceUsd": "1.510000000000000009",
+    "changePercent24Hr": "7.6679748396912935",
+    "vwap24Hr": "1.4554587777248364",
+    "explorer": "https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "trueusd",
+    "rank": "95",
+    "symbol": "TUSD",
+    "name": "TrueUSD",
+    "supply": "494515083.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "494168922.441899955272674561",
+    "volumeUsd24Hr": "6489605.869547436013817787",
+    "priceUsd": "0.999299999999999966",
+    "changePercent24Hr": "0.010008006405122997",
+    "vwap24Hr": "0.9991888722134724",
+    "explorer": "https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
+    "tokens": {
+      "1": [
+        "0x0000000000085d4780b73119b644ae5ecd22b376"
+      ],
+      "56": [
+        "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9"
+      ],
+      "42161": [
+        "0x4d15a3a2286d883af0aa1b3f21367843fac63e07"
+      ],
+      "43114": [
+        "0x1c20e891bab6b1727d14da358fae2984ed9b59eb"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "virtual-protocol",
+    "rank": "96",
+    "symbol": "VIRTUAL",
+    "name": "Virtuals Protocol",
+    "supply": "656301970.333392620086669922",
+    "maxSupply": "1000000000.000000000000000000",
+    "marketCapUsd": "488157405.533977448940277100",
+    "volumeUsd24Hr": "41397102.633313514292240143",
+    "priceUsd": "0.743800000000000017",
+    "changePercent24Hr": "4.841778842765521",
+    "vwap24Hr": "0.732348190290081",
+    "explorer": "https://solscan.io/token/3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
+    "tokens": {
+      "1": [
+        "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73"
+      ],
+      "99": [
+        "3iql8bfs2ve7mww4ehaqqhasbmrncrpxizwat2zfyr9y"
+      ],
+      "8453": [
+        "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "jupiter",
+    "rank": "97",
+    "symbol": "JUP",
+    "name": "Jupiter",
+    "supply": "3004799999.980000019073486328",
+    "maxSupply": "7000000000.000000000000000000",
+    "marketCapUsd": "486927839.996758997440338135",
+    "volumeUsd24Hr": "13547061.986886460334062576",
+    "priceUsd": "0.162050000000000000",
+    "changePercent24Hr": "1.7263025737602027",
+    "vwap24Hr": "0.15980671696463916",
+    "explorer": "https://solscan.io/token/JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "just",
+    "rank": "98",
+    "symbol": "JST",
+    "name": "JUST",
+    "supply": "8815108090.312734603881835938",
+    "maxSupply": null,
+    "marketCapUsd": "486858419.827972352504730225",
+    "volumeUsd24Hr": "20811448.918899234384298325",
+    "priceUsd": "0.055230000000000001",
+    "changePercent24Hr": "2.77260885746185",
+    "vwap24Hr": "0.05370630477577069",
+    "explorer": "https://tronscan.org/#/token20/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "bonk1",
+    "rank": "99",
+    "symbol": "BONK",
+    "name": "Bonk",
+    "supply": "77894175221082.546875000000000000",
+    "maxSupply": "88872433754423.187500000000000000",
+    "marketCapUsd": "467365051.326495289802551270",
+    "volumeUsd24Hr": "35888679.790695749223232269",
+    "priceUsd": "0.000006000000000000",
+    "changePercent24Hr": "0.1669449081802989",
+    "vwap24Hr": "0.0000059740346475966135",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x1151cb3d861920e07a38e03eead12c32178567f6"
+      ],
+      "56": [
+        "0xa697e272a73744b343528c3bc4702f2565b2f422"
+      ],
+      "101": [
+        "dezxaz8z7pnrnrjjz3wxborgixca6xjnb7yab1ppb263"
+      ],
+      "137": [
+        "0xe5b49820e5a1063f6f4ddf851327b5e8b2301048"
+      ],
+      "8453": [
+        "0xdf1cf211d38e7762c9691be4d779a441a17a6cfc"
+      ],
+      "42161": [
+        "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74"
+      ]
+    },
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "pudgy-penguins",
+    "rank": "100",
+    "symbol": "PENGU",
+    "name": "Pudgy Penguins",
+    "supply": "62860396090.040000915527343750",
+    "maxSupply": "88888888888.000000000000000000",
+    "marketCapUsd": "466424138.988096833229064941",
+    "volumeUsd24Hr": "53641241.121249079704284668",
+    "priceUsd": "0.007420000000000000",
+    "changePercent24Hr": "3.084190052792442",
+    "vwap24Hr": "0.007310708710326029",
+    "explorer": "https://solscan.io/token/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "tokens": {},
+    "timestamp": 1773614521.7052622
+  },
+  {
+    "id": "bitcoin",
+    "rank": "1",
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "supply": "20002471.000000000000000000",
+    "maxSupply": "21000000.000000000000000000",
+    "marketCapUsd": "1448506340850.270019531250000000",
+    "volumeUsd24Hr": "20893902288.307937622070312500",
+    "priceUsd": "72416.369999999995343387",
+    "changePercent24Hr": "2.3665266343671476",
+    "vwap24Hr": "71501.60253161834",
+    "explorer": "https://blockchain.info/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "ethereum",
+    "rank": "2",
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "supply": "120691908.694058135151863098",
+    "maxSupply": null,
+    "marketCapUsd": "261736093951.195312500000000000",
+    "volumeUsd24Hr": "9521221658.703321456909179688",
+    "priceUsd": "2168.630000000000109139",
+    "changePercent24Hr": "3.9606713294758835",
+    "vwap24Hr": "2105.594555438198",
+    "explorer": "https://etherscan.io/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "tether",
+    "rank": "3",
+    "symbol": "USDT",
+    "name": "Tether USDt",
+    "supply": "184032318235.761535644531250000",
+    "maxSupply": null,
+    "marketCapUsd": "184069124699.408691406250000000",
+    "volumeUsd24Hr": "294666661.705466806888580322",
+    "priceUsd": "1.000199999999999978",
+    "changePercent24Hr": "0",
+    "vwap24Hr": "1.0001844546878342",
+    "explorer": "https://www.omniexplorer.info/asset/31",
+    "tokens": {
+      "1": [
+        "0xdac17f958d2ee523a2206206994597c13d831ec7"
+      ],
+      "10": [
+        "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58"
+      ],
+      "56": [
+        "0x55d398326f99059ff775485246999027b3197955"
+      ],
+      "101": [
+        "es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb"
+      ],
+      "137": [
+        "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+      ],
+      "42161": [
+        "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "binance-coin",
+    "rank": "4",
+    "symbol": "BNB",
+    "name": "BNB",
+    "supply": "136357955.250000000000000000",
+    "maxSupply": "136357955.250000000000000000",
+    "marketCapUsd": "91741632292.199996948242187500",
+    "volumeUsd24Hr": "617835604.808308362960815430",
+    "priceUsd": "672.799999999999954525",
+    "changePercent24Hr": "2.7661946875620367",
+    "vwap24Hr": "660.2067174186186",
+    "explorer": "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "tokens": {
+      "1": [
+        "0xb8c77482e45f1f44de1745f52c74426c631bdd52"
+      ],
+      "56": [
+        "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "xrp",
+    "rank": "5",
+    "symbol": "XRP",
+    "name": "XRP",
+    "supply": "61227832454.000000000000000000",
+    "maxSupply": "100000000000.000000000000000000",
+    "marketCapUsd": "88714230999.249679565429687500",
+    "volumeUsd24Hr": "1535992629.656463146209716797",
+    "priceUsd": "1.448919999999999986",
+    "changePercent24Hr": "3.8354593664898964",
+    "vwap24Hr": "1.4144722753081955",
+    "explorer": "https://xrpcharts.ripple.com/#/graph/",
+    "tokens": {
+      "56": [
+        "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "usd-coin",
+    "rank": "6",
+    "symbol": "USDC",
+    "name": "USDC",
+    "supply": "79162588471.893676757812500000",
+    "maxSupply": null,
+    "marketCapUsd": "79152369031.699676513671875000",
+    "volumeUsd24Hr": "1056609165.304654479026794434",
+    "priceUsd": "0.999870905684221989",
+    "changePercent24Hr": "-0.000209520518306343",
+    "vwap24Hr": "0.9998461874889903",
+    "explorer": "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "tokens": {
+      "1": [
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+      ],
+      "10": [
+        "0x0b2c639c533813f4aa9d7837caf62653d097ff85"
+      ],
+      "56": [
+        "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+      ],
+      "101": [
+        "epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v"
+      ],
+      "137": [
+        "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+        "0x078d782b760474a361dda0af3839290b0ef57ad6"
+      ],
+      "8453": [
+        "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913"
+      ],
+      "42161": [
+        "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
+      ],
+      "43114": [
+        "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "solana",
+    "rank": "7",
+    "symbol": "SOL",
+    "name": "Solana",
+    "supply": "571356041.925154209136962891",
+    "maxSupply": null,
+    "marketCapUsd": "52364781242.440383911132812500",
+    "volumeUsd24Hr": "2420081203.141024112701416016",
+    "priceUsd": "91.650000000000005684",
+    "changePercent24Hr": "4.94675369288905",
+    "vwap24Hr": "88.24839618396972",
+    "explorer": "https://explorer.solana.com/",
+    "tokens": {
+      "101": [
+        "so11111111111111111111111111111111111111112"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "tron",
+    "rank": "8",
+    "symbol": "TRX",
+    "name": "TRON",
+    "supply": "94749930700.962402343750000000",
+    "maxSupply": null,
+    "marketCapUsd": "28292329307.307369232177734375",
+    "volumeUsd24Hr": "344854408.078913569450378418",
+    "priceUsd": "0.298599999999999977",
+    "changePercent24Hr": "0.35288186859351217",
+    "vwap24Hr": "0.29748666483656244",
+    "explorer": "https://tronscan.org/#/",
+    "tokens": {
+      "1": [
+        "0x50327c6c5a14dcade707abad2e27eb517df87ab5"
+      ],
+      "56": [
+        "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "steth",
+    "rank": "9",
+    "symbol": "STETH",
+    "name": "Lido Staked ETH",
+    "supply": "9181989.136205490678548813",
+    "maxSupply": null,
+    "marketCapUsd": "19902013835.973426818847656250",
+    "volumeUsd24Hr": "3438945.656423019710928202",
+    "priceUsd": "2167.505705000000489235",
+    "changePercent24Hr": "3.988529147896036",
+    "vwap24Hr": "2104.678531885753",
+    "explorer": "https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "tokens": {
+      "1": [
+        "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "dogecoin",
+    "rank": "10",
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "supply": "153422276383.705230712890625000",
+    "maxSupply": null,
+    "marketCapUsd": "14851276353.942665100097656250",
+    "volumeUsd24Hr": "720674152.975711464881896973",
+    "priceUsd": "0.096799999999999997",
+    "changePercent24Hr": "1.9054637330245205",
+    "vwap24Hr": "0.09571334919024793",
+    "explorer": "http://dogechain.info/chain/Dogecoin",
+    "tokens": {
+      "56": [
+        "0xba2ae424d960c26247dd6c32edc70b295c744c43"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "cardano",
+    "rank": "11",
+    "symbol": "ADA",
+    "name": "Cardano",
+    "supply": "36087496074.637191772460937500",
+    "maxSupply": "45000000000.000000000000000000",
+    "marketCapUsd": "9714753943.292331695556640625",
+    "volumeUsd24Hr": "284062345.757281541824340820",
+    "priceUsd": "0.269199999999999995",
+    "changePercent24Hr": "3.379416282642079",
+    "vwap24Hr": "0.2641943633912952",
+    "explorer": "https://cardanoexplorer.com/",
+    "tokens": {
+      "56": [
+        "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "hyperliquid",
+    "rank": "12",
+    "symbol": "HYPE",
+    "name": "Hyperliquid",
+    "supply": "257223926.575739562511444092",
+    "maxSupply": "961671487.860000014305114746",
+    "marketCapUsd": "9572588427.516149520874023438",
+    "volumeUsd24Hr": "163374672.350934356451034546",
+    "priceUsd": "37.215000000000003411",
+    "changePercent24Hr": "-2.122455420545987",
+    "vwap24Hr": "37.52815995680319",
+    "explorer": "https://app.hyperliquid.xyz/explorer/token/0x0d01dc56dcaaca66ad901c959b4011ec",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "bitcoin-cash",
+    "rank": "13",
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "supply": "20007756.250000000000000000",
+    "maxSupply": "21000000.000000000000000000",
+    "marketCapUsd": "9362629537.187500000000000000",
+    "volumeUsd24Hr": "224056841.640549838542938232",
+    "priceUsd": "467.949999999999988631",
+    "changePercent24Hr": "0.34739347672249365",
+    "vwap24Hr": "464.67770743354134",
+    "explorer": "https://blockchair.com/bitcoin-cash/blocks",
+    "tokens": {
+      "56": [
+        "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "lido-finance-wsteth",
+    "rank": "14",
+    "symbol": "WSTETH",
+    "name": "Lido wstETH",
+    "supply": "3509837.121187789831310511",
+    "maxSupply": null,
+    "marketCapUsd": "9350063049.365423202514648438",
+    "volumeUsd24Hr": "3876257.084338676184415817",
+    "priceUsd": "2663.959245550744981301",
+    "changePercent24Hr": "3.942708398142336",
+    "vwap24Hr": "2587.192498985095",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+      ],
+      "10": [
+        "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb"
+      ],
+      "137": [
+        "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd"
+      ],
+      "8453": [
+        "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452"
+      ],
+      "42161": [
+        "0x5979d7b546e38e414f7e9822514be443a4800529"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "wrapped-bitcoin",
+    "rank": "15",
+    "symbol": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "supply": "119524.676365410006837919",
+    "maxSupply": null,
+    "marketCapUsd": "8637558309.755083084106445313",
+    "volumeUsd24Hr": "96349008.631144329905509949",
+    "priceUsd": "72265.899999999994179234",
+    "changePercent24Hr": "2.3893202846346435",
+    "vwap24Hr": "71360.56317281297",
+    "explorer": "https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "tokens": {
+      "1": [
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+      ],
+      "10": [
+        "0x68f180fcce6836688e9084f035309e29bf0a2095"
+      ],
+      "101": [
+        "3nz9jmvbmgaqocybic2c7lqcjscmgsaz6vqqtdzcqmjh"
+      ],
+      "137": [
+        "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
+      ],
+      "42161": [
+        "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f"
+      ],
+      "43114": [
+        "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "unus-sed-leo",
+    "rank": "16",
+    "symbol": "LEO",
+    "name": "UNUS SED LEO",
+    "supply": "921114986.899999976158142090",
+    "maxSupply": null,
+    "marketCapUsd": "8346222896.300899505615234375",
+    "volumeUsd24Hr": "778068.689676409587264061",
+    "priceUsd": "9.060999999999999943",
+    "changePercent24Hr": "-0.23122660207003737",
+    "vwap24Hr": "9.067766624539507",
+    "explorer": "https://eospark.com/account/bitfinexleo1",
+    "tokens": {
+      "1": [
+        "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "weth",
+    "rank": "17",
+    "symbol": "WETH",
+    "name": "WETH",
+    "supply": "3375317.592646900098770857",
+    "maxSupply": null,
+    "marketCapUsd": "7266973855.988811492919921875",
+    "volumeUsd24Hr": "79707759.606908649206161499",
+    "priceUsd": "2152.974840595697060053",
+    "changePercent24Hr": "3.2185704370662234",
+    "vwap24Hr": "2105.425642505704",
+    "explorer": "https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "tokens": {
+      "1": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      ],
+      "10": [
+        "0x4200000000000000000000000000000000000006"
+      ],
+      "56": [
+        "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+      ],
+      "101": [
+        "2fpytwczlug1mdrwsyop4d6s1tm7hakhyrjknb5w6pxk"
+      ],
+      "130": [
+        "0x4200000000000000000000000000000000000006"
+      ],
+      "137": [
+        "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+      ],
+      "8453": [
+        "0x4200000000000000000000000000000000000006"
+      ],
+      "42161": [
+        "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+      ],
+      "43114": [
+        "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "chainlink",
+    "rank": "18",
+    "symbol": "LINK",
+    "name": "Chainlink",
+    "supply": "708099970.452586650848388672",
+    "maxSupply": "1000000000.000000000000000000",
+    "marketCapUsd": "6652599222.402050971984863281",
+    "volumeUsd24Hr": "270207839.536817371845245361",
+    "priceUsd": "9.394999999999999574",
+    "changePercent24Hr": "3.389457466710684",
+    "vwap24Hr": "9.204183421839367",
+    "explorer": "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+    "tokens": {
+      "1": [
+        "0x514910771af9ca656af840dff83e8264ecf986ca"
+      ],
+      "10": [
+        "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6"
+      ],
+      "56": [
+        "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd"
+      ],
+      "101": [
+        "cwe8jptuyhdctzywpte1o5dfqfdjzwkc9wkz6rsjqudg"
+      ],
+      "137": [
+        "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
+      ],
+      "42161": [
+        "0xf97f4df75117a78c1a5a0dbb814af92458539fb4"
+      ],
+      "43114": [
+        "0x5947bb275c521040051d82396192181b413227a3"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "monero",
+    "rank": "19",
+    "symbol": "XMR",
+    "name": "Monero",
+    "supply": "18446744.073709551244974136",
+    "maxSupply": null,
+    "marketCapUsd": "6564458346.070281028747558594",
+    "volumeUsd24Hr": "94879607.218752175569534302",
+    "priceUsd": "355.860000000000013642",
+    "changePercent24Hr": "-0.741634541442574",
+    "vwap24Hr": "355.832412643249",
+    "explorer": "http://moneroblocks.info/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "wrapped-eeth",
+    "rank": "20",
+    "symbol": "WEETH",
+    "name": "Wrapped eETH",
+    "supply": "2621996.313256689812988043",
+    "maxSupply": null,
+    "marketCapUsd": "6184131649.648287773132324219",
+    "volumeUsd24Hr": "437710.540032831078860909",
+    "priceUsd": "2358.558484000000134984",
+    "changePercent24Hr": "3.9682914908688978",
+    "vwap24Hr": "2290.396481628625",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee"
+      ],
+      "10": [
+        "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff"
+      ],
+      "56": [
+        "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a"
+      ],
+      "8453": [
+        "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a"
+      ],
+      "42161": [
+        "0x35751007a407ca6feffe80b3cb397736d2cf4dbe"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "ethena-usde",
+    "rank": "21",
+    "symbol": "USDE",
+    "name": "Ethena USDe",
+    "supply": "5921266701.696718215942382813",
+    "maxSupply": null,
+    "marketCapUsd": "5921266701.696718215942382813",
+    "volumeUsd24Hr": "21637460.586748737841844559",
+    "priceUsd": "1.000000000000000000",
+    "changePercent24Hr": "0",
+    "vwap24Hr": "0.9999707394744262",
+    "explorer": "etherscan.io",
+    "tokens": {
+      "1": [
+        "0x4c9edd5852cd905f086c759e8383e09bff1e68b3"
+      ],
+      "56": [
+        "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "canton-network",
+    "rank": "22",
+    "symbol": "CC",
+    "name": "Canton",
+    "supply": "38046062518.692031860351562500",
+    "maxSupply": null,
+    "marketCapUsd": "5724410566.562403678894042969",
+    "volumeUsd24Hr": "7155351.689509792253375053",
+    "priceUsd": "0.150460000000000010",
+    "changePercent24Hr": "-0.26514649343761354",
+    "vwap24Hr": "0.15147169065458782",
+    "explorer": "https://www.cantonscan.com/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "stellar",
+    "rank": "23",
+    "symbol": "XLM",
+    "name": "Stellar",
+    "supply": "33016932537.520435333251953125",
+    "maxSupply": "50001806812.000000000000000000",
+    "marketCapUsd": "5603666807.200506210327148438",
+    "volumeUsd24Hr": "100742459.123108685016632080",
+    "priceUsd": "0.169721000000000011",
+    "changePercent24Hr": "3.04857316332726",
+    "vwap24Hr": "0.16711599663487717",
+    "explorer": "https://dashboard.stellar.org/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "multi-collateral-dai",
+    "rank": "24",
+    "symbol": "DAI",
+    "name": "Dai",
+    "supply": "5365382702.664872169494628906",
+    "maxSupply": null,
+    "marketCapUsd": "5364846164.394605636596679688",
+    "volumeUsd24Hr": "26182870.897538606077432632",
+    "priceUsd": "0.999900000000000011",
+    "changePercent24Hr": "0.011002310485207344",
+    "vwap24Hr": "0.9998377863505925",
+    "explorer": "https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "tokens": {
+      "1": [
+        "0x6b175474e89094c44da98b954eedeac495271d0f"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "bitcoin-bep2",
+    "rank": "25",
+    "symbol": "BTCB",
+    "name": "Bitcoin BEP2",
+    "supply": "65216.225183059999835677",
+    "maxSupply": null,
+    "marketCapUsd": "4725011253.901359558105468750",
+    "volumeUsd24Hr": "4787345.002647421322762966",
+    "priceUsd": "72451.468030208648997359",
+    "changePercent24Hr": "2.3995634843142226",
+    "vwap24Hr": "71528.42935545844",
+    "explorer": "https://explorer.binance.org/asset/BTCB-1DE",
+    "tokens": {
+      "56": [
+        "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "usd1",
+    "rank": "26",
+    "symbol": "USD1",
+    "name": "World Liberty Financial USD",
+    "supply": "4579595639.881041526794433594",
+    "maxSupply": null,
+    "marketCapUsd": "4576847882.497112274169921875",
+    "volumeUsd24Hr": "246128385.629386126995086670",
+    "priceUsd": "0.999399999999999955",
+    "changePercent24Hr": "0.0100070049034313",
+    "vwap24Hr": "0.9992515647499622",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+      ],
+      "56": [
+        "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "rain",
+    "rank": "27",
+    "symbol": "RAIN",
+    "name": "Rain",
+    "supply": "478059976423.913818359375000000",
+    "maxSupply": "1149996077984.000000000000000000",
+    "marketCapUsd": "4379985503.995898246765136719",
+    "volumeUsd24Hr": "19772685.751133456826210022",
+    "priceUsd": "0.009162000000000000",
+    "changePercent24Hr": "1.6193433895297284",
+    "vwap24Hr": "0.00901618664395424",
+    "explorer": "https://arbiscan.io/token/0x25118290e6A5f4139381D072181157035864099d",
+    "tokens": {
+      "42161": [
+        "0x25118290e6a5f4139381d072181157035864099d"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "litecoin",
+    "rank": "28",
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "supply": "76952701.983471348881721497",
+    "maxSupply": "84000000.000000000000000000",
+    "marketCapUsd": "4307440706.303739547729492188",
+    "volumeUsd24Hr": "512558565.948112010955810547",
+    "priceUsd": "55.975171699999997088",
+    "changePercent24Hr": "2.3873636363636277",
+    "vwap24Hr": "55.19058782330872",
+    "explorer": "http://explorer.litecoin.net/chain/Litecoin",
+    "tokens": {
+      "56": [
+        "0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "avalanche",
+    "rank": "29",
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "supply": "431771961.177211880683898926",
+    "maxSupply": "715748719.000000000000000000",
+    "marketCapUsd": "4280296213.126764297485351563",
+    "volumeUsd24Hr": "185889611.355389386415481567",
+    "priceUsd": "9.913326009999998689",
+    "changePercent24Hr": "3.11129381539804",
+    "vwap24Hr": "9.74645195375808",
+    "explorer": "https://avascan.info/",
+    "tokens": {
+      "56": [
+        "0x1ce0c2827e2ef14d5c4f29a091d735a204794041"
+      ],
+      "43114": [
+        "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "hedera-hashgraph",
+    "rank": "30",
+    "symbol": "HBAR",
+    "name": "Hedera",
+    "supply": "43303421565.159805297851562500",
+    "maxSupply": "50000000000.000000000000000000",
+    "marketCapUsd": "4170119496.724889278411865234",
+    "volumeUsd24Hr": "81903751.838879615068435669",
+    "priceUsd": "0.096299999999999997",
+    "changePercent24Hr": "3.993897953882961",
+    "vwap24Hr": "0.09522205031163931",
+    "explorer": "https://app.dragonglass.me/hedera/home",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "paypal-usd",
+    "rank": "31",
+    "symbol": "PYUSD",
+    "name": "PayPal USD",
+    "supply": "4130893285.063527107238769531",
+    "maxSupply": null,
+    "marketCapUsd": "4129654017.078008174896240234",
+    "volumeUsd24Hr": "19238670.104088135063648224",
+    "priceUsd": "0.999700000000000033",
+    "changePercent24Hr": "0.03001801080649169",
+    "vwap24Hr": "0.9995296178348779",
+    "explorer": "https://etherscan.io/token/0x6c3ea9036406852006290770bedfcaba0e23a0e8",
+    "tokens": {
+      "1": [
+        "0x6c3ea9036406852006290770bedfcaba0e23a0e8"
+      ],
+      "101": [
+        "2b1kv6dkpanxd5ixfnxcpjxmkwqjjaymczfhsfu24gxo"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "sui",
+    "rank": "32",
+    "symbol": "SUI",
+    "name": "Sui",
+    "supply": "3899984688.415443420410156250",
+    "maxSupply": "10000000000.000000000000000000",
+    "marketCapUsd": "3988904339.311315059661865234",
+    "volumeUsd24Hr": "290816347.372992813587188721",
+    "priceUsd": "1.022799999999999931",
+    "changePercent24Hr": "3.052896725440794",
+    "vwap24Hr": "1.0039578678842345",
+    "explorer": "https://suiexplorer.com/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "zcash",
+    "rank": "33",
+    "symbol": "ZEC",
+    "name": "Zcash",
+    "supply": "16580734.665544800460338593",
+    "maxSupply": "21000000.000000000000000000",
+    "marketCapUsd": "3860160837.485485076904296875",
+    "volumeUsd24Hr": "411761849.909137964248657227",
+    "priceUsd": "232.810000000000002274",
+    "changePercent24Hr": "9.640199679758876",
+    "vwap24Hr": "224.18880991610226",
+    "explorer": "https://explorer.zcha.in/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "shiba-inu",
+    "rank": "34",
+    "symbol": "SHIB",
+    "name": "Shiba Inu",
+    "supply": "589243705249192.250000000000000000",
+    "maxSupply": "589552695333683.000000000000000000",
+    "marketCapUsd": "3480073323.201729297637939453",
+    "volumeUsd24Hr": "63960881.027299374341964722",
+    "priceUsd": "0.000005906000000000",
+    "changePercent24Hr": "1.1128231467214558",
+    "vwap24Hr": "0.0000058486988582178945",
+    "explorer": "https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "tokens": {
+      "1": [
+        "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+      ],
+      "8453": [
+        "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "crypto-com-coin",
+    "rank": "35",
+    "symbol": "CRO",
+    "name": "Cronos",
+    "supply": "41106028738.237037658691406250",
+    "maxSupply": "100000000000.000000000000000000",
+    "marketCapUsd": "3225590075.089460372924804688",
+    "volumeUsd24Hr": "6983248.963452143594622612",
+    "priceUsd": "0.078469999999999998",
+    "changePercent24Hr": "1.3807182712403878",
+    "vwap24Hr": "0.07757688807686143",
+    "explorer": "https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "tokens": {
+      "1": [
+        "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+      ],
+      "101": [
+        "dvjmymvexgkxaixgkpzqthlog98nc7hsu7eanzsdcboa"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "toncoin",
+    "rank": "36",
+    "symbol": "TON",
+    "name": "Toncoin",
+    "supply": "2457202887.214624404907226563",
+    "maxSupply": null,
+    "marketCapUsd": "3214021376.476728916168212891",
+    "volumeUsd24Hr": "72855071.915905192494392395",
+    "priceUsd": "1.308000000000000052",
+    "changePercent24Hr": "0.5535055350553579",
+    "vwap24Hr": "1.2966009255637272",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x582d872a1b094fc48f5de31d3b73f2d9be47def1"
+      ],
+      "56": [
+        "0x76a797a59ba2c17726896976b7b3747bfd1d220f"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "bittensor",
+    "rank": "37",
+    "symbol": "TAO",
+    "name": "Bittensor",
+    "supply": "10769036.366700680926442146",
+    "maxSupply": "21000000.000000000000000000",
+    "marketCapUsd": "3066483105.418018817901611328",
+    "volumeUsd24Hr": "530621496.758818805217742920",
+    "priceUsd": "284.750000000000000000",
+    "changePercent24Hr": "17.156963587739142",
+    "vwap24Hr": "270.6638549584066",
+    "explorer": "https://bittensor.com/scan",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "world-liberty-financial-wlfi",
+    "rank": "38",
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "supply": "27661793845.000000000000000000",
+    "maxSupply": "100000000000.000000000000000000",
+    "marketCapUsd": "2888167895.356450080871582031",
+    "volumeUsd24Hr": "49524220.597508668899536133",
+    "priceUsd": "0.104410000000000003",
+    "changePercent24Hr": "0.6846673095467717",
+    "vwap24Hr": "0.10386498033441482",
+    "explorer": "https://solscan.io/token/WLFinEv6ypjkczcS83FZqFpgFZYwQXutRbxGe7oC16g",
+    "tokens": {
+      "1": [
+        "0xda5e1988097297dcdc1f90d4dfe7909e847cbef6"
+      ],
+      "56": [
+        "0x47474747477b199288bf72a1d702f7fe0fb1deea"
+      ],
+      "101": [
+        "wlfinev6ypjkczcs83fzqfpgfzywqxutrbxge7oc16g"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "mantle",
+    "rank": "39",
+    "symbol": "MNT",
+    "name": "Mantle",
+    "supply": "3277944055.536839962005615234",
+    "maxSupply": "6219316795.000000000000000000",
+    "marketCapUsd": "2642350703.168246746063232422",
+    "volumeUsd24Hr": "79712773.345211431384086609",
+    "priceUsd": "0.806100000000000039",
+    "changePercent24Hr": "3.187403993855611",
+    "vwap24Hr": "0.7841031495524453",
+    "explorer": "https://mantlescan.xyz/",
+    "tokens": {
+      "1": [
+        "0x3c3a81e81dc49a522a592e7622a7e711c06bf354"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "uniswap",
+    "rank": "40",
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "supply": "633549562.746530294418334961",
+    "maxSupply": null,
+    "marketCapUsd": "2574365293.264251232147216797",
+    "volumeUsd24Hr": "127865560.093674868345260620",
+    "priceUsd": "4.063399999999999679",
+    "changePercent24Hr": "3.6581632653061162",
+    "vwap24Hr": "3.9657325183438785",
+    "explorer": "https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "tokens": {
+      "1": [
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+      ],
+      "10": [
+        "0x6fd9d7ad17242c41f7131d257212c54a0e816691"
+      ],
+      "56": [
+        "0xbf5140a22578168fd562dccf235e5d43a02ce9b1"
+      ],
+      "130": [
+        "0x8f187aa05619a017077f5308904739877ce9ea21"
+      ],
+      "42161": [
+        "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0"
+      ],
+      "43114": [
+        "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "pax-gold",
+    "rank": "41",
+    "symbol": "PAXG",
+    "name": "PAX Gold",
+    "supply": "500365.129000000015366822",
+    "maxSupply": null,
+    "marketCapUsd": "2508135249.276690006256103516",
+    "volumeUsd24Hr": "146218051.038064718246459961",
+    "priceUsd": "5012.609999999999672582",
+    "changePercent24Hr": "-0.17951560935081504",
+    "vwap24Hr": "5009.959046765537",
+    "explorer": "https://etherscan.io/token/0x45804880de22913dafe09f4980848ece6ecbaf78",
+    "tokens": {
+      "1": [
+        "0x45804880de22913dafe09f4980848ece6ecbaf78"
+      ],
+      "137": [
+        "0x553d3d295e0f695b9228246232edf400ed3560b5"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "polkadot",
+    "rank": "42",
+    "symbol": "DOT",
+    "name": "Polkadot",
+    "supply": "1673933922.784044742584228516",
+    "maxSupply": "2100000000.000000000000000000",
+    "marketCapUsd": "2403769113.117887973785400391",
+    "volumeUsd24Hr": "99431966.224481508135795593",
+    "priceUsd": "1.435999999999999943",
+    "changePercent24Hr": "1.7862205840657701",
+    "vwap24Hr": "1.4201070313561261",
+    "explorer": "https://polkascan.io/polkadot",
+    "tokens": {
+      "56": [
+        "0x7083609fce4d1d8dc0c979aab8c869ea2c873402"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "okb",
+    "rank": "43",
+    "symbol": "OKB",
+    "name": "OKB",
+    "supply": "21000000.000000000000000000",
+    "maxSupply": "21000000.000000000000000000",
+    "marketCapUsd": "2031540000.000000000000000000",
+    "volumeUsd24Hr": "93356234.059700071811676025",
+    "priceUsd": "96.739999999999994884",
+    "changePercent24Hr": "-0.21660649819495403",
+    "vwap24Hr": "96.5410426106242",
+    "explorer": "https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+    "tokens": {
+      "1": [
+        "0x75231f58b43240c9718dd58b4967c5114342a86c"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "pi",
+    "rank": "44",
+    "symbol": "PI",
+    "name": "Pi",
+    "supply": "9704029999.922504425048828125",
+    "maxSupply": "100000000000.000000000000000000",
+    "marketCapUsd": "1887433834.984927177429199219",
+    "volumeUsd24Hr": "52568086.868326574563980103",
+    "priceUsd": "0.194500000000000006",
+    "changePercent24Hr": "-2.9925187032418976",
+    "vwap24Hr": "0.19630949146820023",
+    "explorer": "https://blockexplorer.minepi.com/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "memecore",
+    "rank": "45",
+    "symbol": "M",
+    "name": "MemeCore",
+    "supply": "1279082764.121752738952636719",
+    "maxSupply": "10000000000.000000000000000000",
+    "marketCapUsd": "1873088799.779894590377807617",
+    "volumeUsd24Hr": "6513906.622819710522890091",
+    "priceUsd": "1.464399999999999924",
+    "changePercent24Hr": "-3.9031944772554255",
+    "vwap24Hr": "1.4847632689275452",
+    "explorer": "https://memecorescan.io/",
+    "tokens": {
+      "56": [
+        "0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "aave",
+    "rank": "46",
+    "symbol": "AAVE",
+    "name": "Aave",
+    "supply": "15374663.284856749698519707",
+    "maxSupply": null,
+    "marketCapUsd": "1790763427.951661825180053711",
+    "volumeUsd24Hr": "425833799.204829812049865723",
+    "priceUsd": "116.474968900000007466",
+    "changePercent24Hr": "5.3259808463447875",
+    "vwap24Hr": "112.99729867096441",
+    "explorer": "https://etherscan.io/token/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+    "tokens": {
+      "1": [
+        "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
+      ],
+      "56": [
+        "0xfb6115445bff7b52feb98650c87f44907e58f802"
+      ],
+      "137": [
+        "0xd6df932a45c0f255f85145f286ea0b292b21c90b"
+      ],
+      "43114": [
+        "0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "aster",
+    "rank": "47",
+    "symbol": "ASTER",
+    "name": "Aster",
+    "supply": "2476688843.784353256225585938",
+    "maxSupply": "8000000000.000000000000000000",
+    "marketCapUsd": "1774299887.687110662460327148",
+    "volumeUsd24Hr": "102732284.321207672357559204",
+    "priceUsd": "0.716400000000000037",
+    "changePercent24Hr": "0.92983939137786",
+    "vwap24Hr": "0.7142935322763072",
+    "explorer": "https://bscscan.com/token/0x000Ae314E2A2172a039B26378814C252734f556A",
+    "tokens": {
+      "56": [
+        "0x000ae314e2a2172a039b26378814c252734f556a"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "global-dollar-usdg",
+    "rank": "48",
+    "symbol": "USDG",
+    "name": "Global Dollar",
+    "supply": "1767418666.432591915130615234",
+    "maxSupply": null,
+    "marketCapUsd": "1767595408.299235105514526367",
+    "volumeUsd24Hr": "10335842.734149880707263947",
+    "priceUsd": "1.000099999999999989",
+    "changePercent24Hr": "0.0200020002000178",
+    "vwap24Hr": "0.9999578805827222",
+    "explorer": "https://solscan.io/token/2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+    "tokens": {
+      "1": [
+        "0xe343167631d89b6ffc58b88d6b7fb0228795491d"
+      ],
+      "101": [
+        "2u1tszseqz3qbwf3ungpfc8tzmk2tdiwknnrmwgwjgwh"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "near-protocol",
+    "rank": "49",
+    "symbol": "NEAR",
+    "name": "NEAR Protocol",
+    "supply": "1290265467.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "1748309707.785000085830688477",
+    "volumeUsd24Hr": "146247635.355591922998428345",
+    "priceUsd": "1.354999999999999982",
+    "changePercent24Hr": "3.5141329258976355",
+    "vwap24Hr": "1.342344347857352",
+    "explorer": "https://explorer.nearprotocol.com/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "sky",
+    "rank": "50",
+    "symbol": "SKY",
+    "name": "Sky",
+    "supply": "23041422296.651298522949218750",
+    "maxSupply": "23462665147.000000000000000000",
+    "marketCapUsd": "1693774953.026837110519409180",
+    "volumeUsd24Hr": "19162220.210145138204097748",
+    "priceUsd": "0.073510000000000006",
+    "changePercent24Hr": "1.8708425720620898",
+    "vwap24Hr": "0.07354533767013961",
+    "explorer": "https://etherscan.io/token/0x56072C95FAA701256059aa122697B133aDEd9279",
+    "tokens": {
+      "1": [
+        "0x56072c95faa701256059aa122697b133aded9279"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "falcon-finance",
+    "rank": "51",
+    "symbol": "USDf",
+    "name": "Falcon USD",
+    "supply": "1639161511.244252681732177734",
+    "maxSupply": null,
+    "marketCapUsd": "1634539660.743418931961059570",
+    "volumeUsd24Hr": "485031.814999999944120646",
+    "priceUsd": "0.997180356865916551",
+    "changePercent24Hr": "-0.005818067485545424",
+    "vwap24Hr": "0.9972444426003154",
+    "explorer": "https://etherscan.io/token/0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2",
+    "tokens": {
+      "1": [
+        "0xfa2b947eec368f42195f24f36d2af29f7c24cec2"
+      ],
+      "56": [
+        "0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "ripple-usd",
+    "rank": "52",
+    "symbol": "RLUSD",
+    "name": "Ripple USD",
+    "supply": "1552628407.127281427383422852",
+    "maxSupply": null,
+    "marketCapUsd": "1552597354.559138774871826172",
+    "volumeUsd24Hr": "36401590.282833315432071686",
+    "priceUsd": "0.999979999999999980",
+    "changePercent24Hr": "-0.002999970000308548",
+    "vwap24Hr": "0.9999404573736776",
+    "explorer": "https://livenet.xrpl.org/accounts/rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De/transactions",
+    "tokens": {
+      "1": [
+        "0x8292bb45bf1ee4d140127049757c2e0ff06317ed"
+      ],
+      "1600": [
+        "rmxckbedwqr76quhesumdegf4b9xj8m5de"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "bitget-token-new",
+    "rank": "53",
+    "symbol": "BGB",
+    "name": "Bitget Token",
+    "supply": "699983497.176169395446777344",
+    "maxSupply": "919992035.980000019073486328",
+    "marketCapUsd": "1515884261.484712362289428711",
+    "volumeUsd24Hr": "12925301.058418644592165947",
+    "priceUsd": "2.165599999999999969",
+    "changePercent24Hr": "-0.03692762186114808",
+    "vwap24Hr": "2.1682224214203747",
+    "explorer": "https://etherscan.io/token/0x54D2252757e1672EEaD234D27B1270728fF90581",
+    "tokens": {
+      "1": [
+        "0x54d2252757e1672eead234d27b1270728ff90581"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "internet-computer",
+    "rank": "54",
+    "symbol": "ICP",
+    "name": "Internet Computer",
+    "supply": "550493835.774576663970947266",
+    "maxSupply": null,
+    "marketCapUsd": "1476974961.383189201354980469",
+    "volumeUsd24Hr": "61777608.674921900033950806",
+    "priceUsd": "2.682999999999999829",
+    "changePercent24Hr": "0.11194029850745035",
+    "vwap24Hr": "2.674888584874608",
+    "explorer": "https://www.dfinityexplorer.org/#/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "pepe",
+    "rank": "55",
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "supply": "413772497733101.750000000000000000",
+    "maxSupply": "413772497733101.750000000000000000",
+    "marketCapUsd": "1414688169.749474763870239258",
+    "volumeUsd24Hr": "218843371.592070788145065308",
+    "priceUsd": "0.000003419000000000",
+    "changePercent24Hr": "2.6110444177670997",
+    "vwap24Hr": "0.0000033599888920796676",
+    "explorer": "https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "tokens": {
+      "1": [
+        "0x6982508145454ce325ddbe47a25d4ec3d2311933"
+      ],
+      "42161": [
+        "0x25d887ce7a35172c62febfd67a1856f20faebb00"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "ondo-us-dollar-yield",
+    "rank": "56",
+    "symbol": "USDY",
+    "name": "Ondo US Dollar Yield",
+    "supply": "1170556747.325868368148803711",
+    "maxSupply": null,
+    "marketCapUsd": "1318046897.488927602767944336",
+    "volumeUsd24Hr": "1539.973899999999957799",
+    "priceUsd": "1.125999999999999890",
+    "changePercent24Hr": "0.01776514478592805",
+    "vwap24Hr": "1.1259948052069935",
+    "explorer": "https://solscan.io/token/A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
+    "tokens": {
+      "1": [
+        "0x96f6ef951840721adbf46ac996b59e0235cb985c"
+      ],
+      "101": [
+        "a1klobrkbde8ty9qtnqutq3c2ortoc3u7twggz7seto6"
+      ],
+      "42161": [
+        "0x35e050d3c0ec2d29d269a8ecea763a183bdf9a9d"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "ethereum-classic",
+    "rank": "57",
+    "symbol": "ETC",
+    "name": "Ethereum Classic",
+    "supply": "155911344.301351010799407959",
+    "maxSupply": "210700000.000000000000000000",
+    "marketCapUsd": "1315673470.021380424499511719",
+    "volumeUsd24Hr": "57397931.443584710359573364",
+    "priceUsd": "8.438599999999999213",
+    "changePercent24Hr": "2.684351423704055",
+    "vwap24Hr": "8.297470371077639",
+    "explorer": "http://gastracker.io/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "ondo-finance",
+    "rank": "58",
+    "symbol": "ONDO",
+    "name": "Ondo",
+    "supply": "4869330647.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "1313842795.173540115356445313",
+    "volumeUsd24Hr": "51134935.463475674390792847",
+    "priceUsd": "0.269820000000000004",
+    "changePercent24Hr": "4.057076745082927",
+    "vwap24Hr": "0.2646069163621607",
+    "explorer": "https://etherscan.io/token/0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+    "tokens": {
+      "1": [
+        "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "tether-gold",
+    "rank": "59",
+    "symbol": "XAUT",
+    "name": "Tether Gold",
+    "supply": "246524.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "1228392113.400000095367431641",
+    "volumeUsd24Hr": "239083848.755432665348052979",
+    "priceUsd": "4982.850000000000363798",
+    "changePercent24Hr": "-0.17473817307070244",
+    "vwap24Hr": "4980.206214640676",
+    "explorer": "https://etherscan.io/token/0x4922a015c4407f87432b179bb209e125432e4a2a",
+    "tokens": {
+      "1": [
+        "0x68749665ff8d2d112fa859aa293f07a622782f38"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "jupiter-perps-lp",
+    "rank": "60",
+    "symbol": "JLP",
+    "name": "Jupiter Perps LP",
+    "supply": "301317876.323270976543426514",
+    "maxSupply": null,
+    "marketCapUsd": "1175444689.340696096420288086",
+    "volumeUsd24Hr": "5257925.166787466034293175",
+    "priceUsd": "3.901012126076489395",
+    "changePercent24Hr": "2.7814581980893824",
+    "vwap24Hr": "3.823799594295868",
+    "explorer": "https://solscan.io/token/27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+    "tokens": {
+      "101": [
+        "27g8mtk7vttcchkpasjsddkwwyfoqt6ggeukidvjidd4"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "usdd",
+    "rank": "61",
+    "symbol": "USDD",
+    "name": "USDD",
+    "supply": "1116365869.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "1116343541.682620048522949219",
+    "volumeUsd24Hr": "1702127.346969305304810405",
+    "priceUsd": "0.999979999999999980",
+    "changePercent24Hr": "0.10811893082390328",
+    "vwap24Hr": "0.9993433015920836",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x3d7975eccfc61a2102b08925cbba0a4d4dbb6555"
+      ],
+      "56": [
+        "0x392004bee213f1ff580c867359c246924f21e6ad"
+      ],
+      "397": [
+        "0c10bf8fcb7bf5412187a595ab97a3609160b5c6.factory.bridge.near"
+      ],
+      "728126428": [
+        "txdk8mbtrbxeyumns83cfkpayyt8xwv9hz"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "kucoin-token",
+    "rank": "62",
+    "symbol": "KCS",
+    "name": "KuCoin Token",
+    "supply": "132155021.735567152500152588",
+    "maxSupply": "200000000.000000000000000000",
+    "marketCapUsd": "1100587021.013803243637084961",
+    "volumeUsd24Hr": "2330471.435047262348234653",
+    "priceUsd": "8.327999999999999403",
+    "changePercent24Hr": "2.439204398686295",
+    "vwap24Hr": "8.206488578044787",
+    "explorer": "https://etherscan.io/token/0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "wbnb",
+    "rank": "63",
+    "symbol": "WBNB",
+    "name": "Wrapped BNB",
+    "supply": "1582884.539848040090873837",
+    "maxSupply": null,
+    "marketCapUsd": "1065617689.465288043022155762",
+    "volumeUsd24Hr": "95963499.949161008000373840",
+    "priceUsd": "673.212519700008783730",
+    "changePercent24Hr": "2.8249959746877376",
+    "vwap24Hr": "659.9832659849408",
+    "explorer": "https://bscscan.com/token/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "tokens": {
+      "1": [
+        "0x418d75f65a02b3d53b2418fb8e1fe493759c7605"
+      ],
+      "56": [
+        "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+      ],
+      "101": [
+        "9gp2kcy3wa1ctvywqk75guqxuhfreomqydhltctcqila"
+      ],
+      "137": [
+        "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d"
+      ],
+      "43114": [
+        "0x442f7f22b1ee2c842beaff52880d4573e9201158"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "worldcoin-org",
+    "rank": "64",
+    "symbol": "WLD",
+    "name": "Worldcoin",
+    "supply": "2919142043.736522674560546875",
+    "maxSupply": null,
+    "marketCapUsd": "1060088457.607925534248352051",
+    "volumeUsd24Hr": "47801882.250971086323261261",
+    "priceUsd": "0.363150693500000010",
+    "changePercent24Hr": "2.7591096491228124",
+    "vwap24Hr": "0.3589739349316821",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x163f8c2467924be0ae7b5347228cabf260318753"
+      ],
+      "10": [
+        "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1"
+      ],
+      "480": [
+        "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "polygon-ecosystem-token",
+    "rank": "65",
+    "symbol": "POL",
+    "name": "Polygon (prev. MATIC)",
+    "supply": "10608256021.524450302124023438",
+    "maxSupply": null,
+    "marketCapUsd": "1030244508.894939184188842773",
+    "volumeUsd24Hr": "43073076.903055056929588318",
+    "priceUsd": "0.097117236500000009",
+    "changePercent24Hr": "0.9534682952183113",
+    "vwap24Hr": "0.09629250517721502",
+    "explorer": "https://etherscan.io/token/0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+    "tokens": {
+      "1": [
+        "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "united-stables",
+    "rank": "66",
+    "symbol": "U",
+    "name": "United Stables",
+    "supply": "1004899973.048467159271240234",
+    "maxSupply": null,
+    "marketCapUsd": "1004698993.053857445716857910",
+    "volumeUsd24Hr": "30419364.358530566096305847",
+    "priceUsd": "0.999800000000000022",
+    "changePercent24Hr": "0.005001250312577594",
+    "vwap24Hr": "0.9997622336677301",
+    "explorer": "https://bscscan.com/token/0xcE24439F2D9C6a2289F741120FE202248B666666",
+    "tokens": {
+      "56": [
+        "0xce24439f2d9c6a2289f741120fe202248b666666"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "polygon",
+    "rank": "67",
+    "symbol": "MATIC",
+    "name": "Polygon",
+    "supply": "10000000000.000000000000000000",
+    "maxSupply": "10000000000.000000000000000000",
+    "marketCapUsd": "983021816.762162923812866211",
+    "volumeUsd24Hr": "3848171.649688706267625093",
+    "priceUsd": "0.098302181676216294",
+    "changePercent24Hr": "-28.663148275605018",
+    "vwap24Hr": "0.10690728875779912",
+    "explorer": "https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "tokens": {
+      "1": [
+        "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+      ],
+      "56": [
+        "0xcc42724c6683b7e57334c4e856f4c9965ed682bd"
+      ],
+      "137": [
+        "0x0000000000000000000000000000000000001010"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "render",
+    "rank": "68",
+    "symbol": "RENDER",
+    "name": "Render",
+    "supply": "518743261.014074146747589111",
+    "maxSupply": "644168762.000000000000000000",
+    "marketCapUsd": "979387276.794571995735168457",
+    "volumeUsd24Hr": "108142221.809405565261840820",
+    "priceUsd": "1.887999999999999901",
+    "changePercent24Hr": "3.9704829561099086",
+    "vwap24Hr": "1.8619181213180747",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24"
+      ],
+      "137": [
+        "0x61299774020da444af134c82fa83e3810b309991"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "official-trump",
+    "rank": "69",
+    "symbol": "TRUMP",
+    "name": "OFFICIAL TRUMP",
+    "supply": "232497972.432945996522903442",
+    "maxSupply": "999999993.450000047683715820",
+    "marketCapUsd": "940221800.518833518028259277",
+    "volumeUsd24Hr": "312936480.808754622936248779",
+    "priceUsd": "4.043999999999999595",
+    "changePercent24Hr": "1.1505752876438062",
+    "vwap24Hr": "4.01219736730703",
+    "explorer": "https://solscan.io/token/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "tokens": {
+      "101": [
+        "6p6xghyf7aee6tzksmfsko444wqop15icusqi2jfgipn"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "ethena",
+    "rank": "70",
+    "symbol": "ENA",
+    "name": "Ethena",
+    "supply": "8492187500.000000000000000000",
+    "maxSupply": "15000000000.000000000000000000",
+    "marketCapUsd": "939235937.500000000000000000",
+    "volumeUsd24Hr": "58637194.448713794350624084",
+    "priceUsd": "0.110600000000000004",
+    "changePercent24Hr": "3.2679738562091534",
+    "vwap24Hr": "0.10851870955382516",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x57e114b691db790c35207b2e685d4a43181e6061"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "cosmos",
+    "rank": "71",
+    "symbol": "ATOM",
+    "name": "Cosmos",
+    "supply": "497900100.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "928832636.549999952316284180",
+    "volumeUsd24Hr": "23615208.649039078503847122",
+    "priceUsd": "1.865499999999999936",
+    "changePercent24Hr": "-0.1121781787674367",
+    "vwap24Hr": "1.8566943305490713",
+    "explorer": "https://www.mintscan.io/",
+    "tokens": {
+      "1": [
+        "0x8d983cb9388eac77af0474fa441c4815500cb7bb"
+      ],
+      "56": [
+        "0x0eb3a705fc54725037cc9e008bdede697f62f335"
+      ],
+      "137": [
+        "0xac51c4c48dc3116487ed4bc16542e27b5694da1b"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "rocket-pool-eth",
+    "rank": "72",
+    "symbol": "RETH",
+    "name": "Rocket Pool ETH",
+    "supply": "347074.071800090023316443",
+    "maxSupply": null,
+    "marketCapUsd": "871490020.164028048515319824",
+    "volumeUsd24Hr": "408419.243223003053572029",
+    "priceUsd": "2510.962618567469689879",
+    "changePercent24Hr": "3.953301210112466",
+    "vwap24Hr": "2443.911336522847",
+    "explorer": "https://etherscan.io/token/0xae78736cd615f374d3085123a210448e74fc6393",
+    "tokens": {
+      "1": [
+        "0xae78736cd615f374d3085123a210448e74fc6393"
+      ],
+      "10": [
+        "0x9bcef72be871e61ed4fbbc7630889bee758eb81d"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "kaspa",
+    "rank": "73",
+    "symbol": "KAS",
+    "name": "Kaspa",
+    "supply": "27283521488.097526550292968750",
+    "maxSupply": "28704026601.000000000000000000",
+    "marketCapUsd": "835967098.395308256149291992",
+    "volumeUsd24Hr": "9726514.777818441390991211",
+    "priceUsd": "0.030640000000000001",
+    "changePercent24Hr": "0.13071895424837204",
+    "vwap24Hr": "0.030509288355094227",
+    "explorer": "https://explorer.kaspa.org/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "midnight-network",
+    "rank": "74",
+    "symbol": "NIGHT",
+    "name": "Midnight",
+    "supply": "16607399401.000000000000000000",
+    "maxSupply": "24000000000.000000000000000000",
+    "marketCapUsd": "834488605.101448059082031250",
+    "volumeUsd24Hr": "141697864.392710208892822266",
+    "priceUsd": "0.050248000000000001",
+    "changePercent24Hr": "0.5965965965965959",
+    "vwap24Hr": "0.05057312376196351",
+    "explorer": "https://cardanoscan.io/token/0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa4e49474854",
+    "tokens": {
+      "56": [
+        "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "gatetoken",
+    "rank": "75",
+    "symbol": "GT",
+    "name": "GateToken",
+    "supply": "115180573.048858016729354858",
+    "maxSupply": "115180573.048858016729354858",
+    "marketCapUsd": "832638036.728882908821105957",
+    "volumeUsd24Hr": "1242455.695218038978055120",
+    "priceUsd": "7.228979806999999091",
+    "changePercent24Hr": "1.406858109336716",
+    "vwap24Hr": "7.148603310468752",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0xe66747a101bff2dba3697199dcce5b743b454759"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "algorand",
+    "rank": "76",
+    "symbol": "ALGO",
+    "name": "Algorand",
+    "supply": "8890289951.965234756469726563",
+    "maxSupply": "10000000000.000000000000000000",
+    "marketCapUsd": "824129878.547177314758300781",
+    "volumeUsd24Hr": "27833088.783919330686330795",
+    "priceUsd": "0.092700000000000005",
+    "changePercent24Hr": "2.317880794701992",
+    "vwap24Hr": "0.09110339227662823",
+    "explorer": "https://algoexplorer.io/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "quant",
+    "rank": "77",
+    "symbol": "QNT",
+    "name": "Quant",
+    "supply": "12072738.000000000000000000",
+    "maxSupply": "14881364.000000000000000000",
+    "marketCapUsd": "811046538.840000033378601074",
+    "volumeUsd24Hr": "8170726.171604852192103863",
+    "priceUsd": "67.180000000000006821",
+    "changePercent24Hr": "0.1840749846361261",
+    "vwap24Hr": "66.63571577485594",
+    "explorer": "https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675",
+    "tokens": {
+      "1": [
+        "0x4a220e6096b25eadb88358cb44068a3248254675"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "morpho",
+    "rank": "78",
+    "symbol": "MORPHO",
+    "name": "Morpho",
+    "supply": "402586499.275597989559173584",
+    "maxSupply": "1000000000.000000000000000000",
+    "marketCapUsd": "785043673.587416052818298340",
+    "volumeUsd24Hr": "12169461.154361179098486900",
+    "priceUsd": "1.949999999999999956",
+    "changePercent24Hr": "3.646220899330286",
+    "vwap24Hr": "1.8791075471404892",
+    "explorer": "https://etherscan.io/token/0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+    "tokens": {
+      "1": [
+        "0x58D97B57BB95320F9a05dC918Aef65434969c2B2"
+      ],
+      "8453": [
+        "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "six-domain-chain",
+    "rank": "79",
+    "symbol": "SDA",
+    "name": "Six Domain Chain",
+    "supply": "713593330.977444052696228027",
+    "maxSupply": null,
+    "marketCapUsd": "780036006.024753928184509277",
+    "volumeUsd24Hr": "43325.939542800006165635",
+    "priceUsd": "1.093110000000000026",
+    "changePercent24Hr": "3.064274332695333",
+    "vwap24Hr": "1.0741590899166857",
+    "explorer": "https://etherscan.io/token/0x4212fea9fec90236ecc51e41e2096b16ceb84555",
+    "tokens": {
+      "1": [
+        "0x4212fea9fec90236ecc51e41e2096b16ceb84555"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "flare",
+    "rank": "80",
+    "symbol": "FLR",
+    "name": "Flare",
+    "supply": "85217816737.004623413085937500",
+    "maxSupply": null,
+    "marketCapUsd": "748041995.317426562309265137",
+    "volumeUsd24Hr": "2935926.185221794527024031",
+    "priceUsd": "0.008777999999999999",
+    "changePercent24Hr": "1.1873198847262123",
+    "vwap24Hr": "0.008695942919564104",
+    "explorer": "https://flare-explorer.flare.network/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "aptos",
+    "rank": "81",
+    "symbol": "APT",
+    "name": "Aptos",
+    "supply": "793257578.633121371269226074",
+    "maxSupply": "2100000000.000000000000000000",
+    "marketCapUsd": "740188646.622565627098083496",
+    "volumeUsd24Hr": "61726680.393172048032283783",
+    "priceUsd": "0.933100000000000041",
+    "changePercent24Hr": "2.201533406352684",
+    "vwap24Hr": "0.9237315566667983",
+    "explorer": "https://explorer.aptoslabs.com/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "filecoin",
+    "rank": "82",
+    "symbol": "FIL",
+    "name": "Filecoin",
+    "supply": "761626558.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "684321462.362999916076660156",
+    "volumeUsd24Hr": "64138160.323990665376186371",
+    "priceUsd": "0.898499999999999965",
+    "changePercent24Hr": "1.5828151498021499",
+    "vwap24Hr": "0.8849380336099946",
+    "explorer": "https://protocol.ai",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "layerzero",
+    "rank": "83",
+    "symbol": "ZRO",
+    "name": "LayerZero",
+    "supply": "304494477.246427237987518311",
+    "maxSupply": "1000000000.000000000000000000",
+    "marketCapUsd": "668060883.078661322593688965",
+    "volumeUsd24Hr": "63310929.661615110933780670",
+    "priceUsd": "2.193999999999999950",
+    "changePercent24Hr": "11.667789109414748",
+    "vwap24Hr": "2.0525984962746917",
+    "explorer": "https://layerzeroscan.com/",
+    "tokens": {
+      "1": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ],
+      "10": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ],
+      "56": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ],
+      "137": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ],
+      "8453": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ],
+      "42161": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ],
+      "43114": [
+        "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "pump-fun",
+    "rank": "84",
+    "symbol": "PUMP",
+    "name": "Pump.fun",
+    "supply": "332096631123.135803222656250000",
+    "maxSupply": "1000000000000.000000000000000000",
+    "marketCapUsd": "648584720.583484292030334473",
+    "volumeUsd24Hr": "60892917.474157556891441345",
+    "priceUsd": "0.001953000000000000",
+    "changePercent24Hr": "-0.8629441624365417",
+    "vwap24Hr": "0.001983317726941336",
+    "explorer": null,
+    "tokens": {
+      "101": [
+        "pumpcmxqmfrsakq5r49wcjnrayyrqmxz6ae8h7h9dfn"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "xinfin-network",
+    "rank": "85",
+    "symbol": "XDC",
+    "name": "XDC Network",
+    "supply": "19937900371.169998168945312500",
+    "maxSupply": null,
+    "marketCapUsd": "634721088.451640248298645020",
+    "volumeUsd24Hr": "7504961.832356349565088749",
+    "priceUsd": "0.031834901200000001",
+    "changePercent24Hr": "1.5467342902711279",
+    "vwap24Hr": "0.03175104268910214",
+    "explorer": "https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "vechain",
+    "rank": "86",
+    "symbol": "VET",
+    "name": "VeChain",
+    "supply": "85985041177.000000000000000000",
+    "maxSupply": "86712634466.000000000000000000",
+    "marketCapUsd": "634010701.118609428405761719",
+    "volumeUsd24Hr": "21617145.235683515667915344",
+    "priceUsd": "0.007373500000000000",
+    "changePercent24Hr": "4.013259980251094",
+    "vwap24Hr": "0.007251091481512761",
+    "explorer": "https://explore.veforge.com/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "beldex",
+    "rank": "87",
+    "symbol": "BDX",
+    "name": "Beldex",
+    "supply": "7606230234.049423217773437500",
+    "maxSupply": null,
+    "marketCapUsd": "616333102.843705892562866211",
+    "volumeUsd24Hr": "10372074.298913961276412010",
+    "priceUsd": "0.081030035099999995",
+    "changePercent24Hr": "-0.34431791907514303",
+    "vwap24Hr": "0.08085370709227978",
+    "explorer": "https://explorer.beldex.io/",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "arbitrum",
+    "rank": "88",
+    "symbol": "ARB",
+    "name": "Arbitrum",
+    "supply": "5939074958.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "615288165.648800015449523926",
+    "volumeUsd24Hr": "48113345.068393804132938385",
+    "priceUsd": "0.103599999999999998",
+    "changePercent24Hr": "3.3932135728542914",
+    "vwap24Hr": "0.10185524966039264",
+    "explorer": "https://arbiscan.io/token/0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "tokens": {
+      "1": [
+        "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1"
+      ],
+      "42161": [
+        "0x912ce59144191c1204e64559fe8253a0e49e6548"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "stable",
+    "rank": "89",
+    "symbol": "STABLE",
+    "name": "Stable",
+    "supply": "20896316872.000000000000000000",
+    "maxSupply": "100000000000.000000000000000000",
+    "marketCapUsd": "589067172.621680021286010742",
+    "volumeUsd24Hr": "17935046.091200128197669983",
+    "priceUsd": "0.028190000000000000",
+    "changePercent24Hr": "-1.8795683954054954",
+    "vwap24Hr": "0.02860768829964329",
+    "explorer": "https://stablescan.xyz/token/0x0000000000000000000000000000000000001003",
+    "tokens": {
+      "56": [
+        "0x011ebe7d75e2c9d1e0bd0be0bef5c36f0a90075f"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "nexo",
+    "rank": "90",
+    "symbol": "NEXO",
+    "name": "Nexo",
+    "supply": "646145839.574684739112854004",
+    "maxSupply": "1000000000.000000000000000000",
+    "marketCapUsd": "587992714.012963175773620605",
+    "volumeUsd24Hr": "3460733.659145070705562830",
+    "priceUsd": "0.910000000000000031",
+    "changePercent24Hr": "0.8869179600886925",
+    "vwap24Hr": "0.902364981775207",
+    "explorer": "https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "tokens": {
+      "1": [
+        "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
+      ],
+      "56": [
+        "nexo-a84"
+      ],
+      "137": [
+        "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "gho",
+    "rank": "91",
+    "symbol": "GHO",
+    "name": "GHO",
+    "supply": "584000000.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "583869196.892724633216857910",
+    "volumeUsd24Hr": "513545.007833769719582051",
+    "priceUsd": "0.999776022076583337",
+    "changePercent24Hr": "0.00029216208307047395",
+    "vwap24Hr": "0.9996689160831866",
+    "explorer": "https://etherscan.io/token/0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+    "tokens": {
+      "1": [
+        "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "usual-usd",
+    "rank": "92",
+    "symbol": "USD0",
+    "name": "Usual USD",
+    "supply": "571146055.819353938102722168",
+    "maxSupply": null,
+    "marketCapUsd": "570295146.566688895225524902",
+    "volumeUsd24Hr": "981.848397466582810011",
+    "priceUsd": "0.998510172233537885",
+    "changePercent24Hr": "-0.00007093423090683495",
+    "vwap24Hr": "0.9985104924053708",
+    "explorer": "https://etherscan.io/address/0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
+    "tokens": {
+      "1": [
+        "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5"
+      ],
+      "42161": [
+        "0x35f1c5cb7fb977e669fd244c567da99d8a3a6850"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "usdai",
+    "rank": "93",
+    "symbol": "USDAI",
+    "name": "USDai",
+    "supply": "501351126.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "501355704.984233200550079346",
+    "volumeUsd24Hr": "21897.580000000001746230",
+    "priceUsd": "1.000009133288020546",
+    "changePercent24Hr": "0.009378316724690666",
+    "vwap24Hr": "0.9998718534923873",
+    "explorer": "https://arbiscan.io/token/0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+    "tokens": {
+      "42161": [
+        "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "pancakeswap",
+    "rank": "94",
+    "symbol": "CAKE",
+    "name": "PancakeSwap",
+    "supply": "330006933.905859589576721191",
+    "maxSupply": "400000000.000000000000000000",
+    "marketCapUsd": "500455515.268236041069030762",
+    "volumeUsd24Hr": "99494925.199412897229194641",
+    "priceUsd": "1.516499999999999959",
+    "changePercent24Hr": "8.131446254564134",
+    "vwap24Hr": "1.4554587777248364",
+    "explorer": "https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "trueusd",
+    "rank": "95",
+    "symbol": "TUSD",
+    "name": "TrueUSD",
+    "supply": "494515083.000000000000000000",
+    "maxSupply": null,
+    "marketCapUsd": "494168922.441899955272674561",
+    "volumeUsd24Hr": "6557672.028059558942914009",
+    "priceUsd": "0.999299999999999966",
+    "changePercent24Hr": "0.010008006405122997",
+    "vwap24Hr": "0.9991888722134724",
+    "explorer": "https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
+    "tokens": {
+      "1": [
+        "0x0000000000085d4780b73119b644ae5ecd22b376"
+      ],
+      "56": [
+        "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9"
+      ],
+      "42161": [
+        "0x4d15a3a2286d883af0aa1b3f21367843fac63e07"
+      ],
+      "43114": [
+        "0x1c20e891bab6b1727d14da358fae2984ed9b59eb"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "virtual-protocol",
+    "rank": "96",
+    "symbol": "VIRTUAL",
+    "name": "Virtuals Protocol",
+    "supply": "656301970.333392620086669922",
+    "maxSupply": "1000000000.000000000000000000",
+    "marketCapUsd": "489929420.853877604007720947",
+    "volumeUsd24Hr": "41883034.274487145245075226",
+    "priceUsd": "0.746500000000000052",
+    "changePercent24Hr": "5.222355345690327",
+    "vwap24Hr": "0.732348190290081",
+    "explorer": "https://solscan.io/token/3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
+    "tokens": {
+      "1": [
+        "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73"
+      ],
+      "99": [
+        "3iql8bfs2ve7mww4ehaqqhasbmrncrpxizwat2zfyr9y"
+      ],
+      "8453": [
+        "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "jupiter",
+    "rank": "97",
+    "symbol": "JUP",
+    "name": "Jupiter",
+    "supply": "3004799999.980000019073486328",
+    "maxSupply": "7000000000.000000000000000000",
+    "marketCapUsd": "489391775.996742546558380127",
+    "volumeUsd24Hr": "13693276.438718119636178017",
+    "priceUsd": "0.162869999999999987",
+    "changePercent24Hr": "2.2410546139359635",
+    "vwap24Hr": "0.15980671696463916",
+    "explorer": "https://solscan.io/token/JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "just",
+    "rank": "98",
+    "symbol": "JST",
+    "name": "JUST",
+    "supply": "8815108090.312734603881835938",
+    "maxSupply": null,
+    "marketCapUsd": "487828081.717906713485717773",
+    "volumeUsd24Hr": "20843581.821544259786605835",
+    "priceUsd": "0.055340000000000000",
+    "changePercent24Hr": "2.9772981019724547",
+    "vwap24Hr": "0.05370630477577069",
+    "explorer": "https://tronscan.org/#/token20/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "bonk1",
+    "rank": "99",
+    "symbol": "BONK",
+    "name": "Bonk",
+    "supply": "77894175221082.546875000000000000",
+    "maxSupply": "88872433754423.187500000000000000",
+    "marketCapUsd": "468922934.830916941165924072",
+    "volumeUsd24Hr": "36204638.776831038296222687",
+    "priceUsd": "0.000006020000000000",
+    "changePercent24Hr": "0.5008347245408967",
+    "vwap24Hr": "0.0000059740346475966135",
+    "explorer": null,
+    "tokens": {
+      "1": [
+        "0x1151cb3d861920e07a38e03eead12c32178567f6"
+      ],
+      "56": [
+        "0xa697e272a73744b343528c3bc4702f2565b2f422"
+      ],
+      "101": [
+        "dezxaz8z7pnrnrjjz3wxborgixca6xjnb7yab1ppb263"
+      ],
+      "137": [
+        "0xe5b49820e5a1063f6f4ddf851327b5e8b2301048"
+      ],
+      "8453": [
+        "0xdf1cf211d38e7762c9691be4d779a441a17a6cfc"
+      ],
+      "42161": [
+        "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74"
+      ]
+    },
+    "timestamp": 1773614553.1606853
+  },
+  {
+    "id": "pudgy-penguins",
+    "rank": "100",
+    "symbol": "PENGU",
+    "name": "Pudgy Penguins",
+    "supply": "62860396090.040000915527343750",
+    "maxSupply": "88888888888.000000000000000000",
+    "marketCapUsd": "468812834.039518356323242188",
+    "volumeUsd24Hr": "54226987.532761462032794952",
+    "priceUsd": "0.007458000000000000",
+    "changePercent24Hr": "3.6121144762433985",
+    "vwap24Hr": "0.007310708710326029",
+    "explorer": "https://solscan.io/token/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "tokens": {},
+    "timestamp": 1773614553.1606853
+  }
+]

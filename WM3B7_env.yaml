@@ -1,0 +1,39 @@
+name: WM3B7
+
+channels:
+    - conda-forge
+
+dependencies:
+    - python=3.8 
+    - numpy
+    - matplotlib
+    - pandas
+    - bokeh
+    - notebook
+    - scikit-learn
+    - scikit-image
+    - geopandas
+    - folium
+    - seaborn
+    - pip
+    - ipywidgets
+    - nltk 
+    - spacy
+    - sphinx
+    - pip:
+        - pygal
+        - opencv-contrib-python
+        - beautifulsoup4
+        - lxml
+        - html5lib
+        - plotly
+        - apache-airflow==2.7.3
+        - kafka-python
+        - psycopg2-binary
+        - sqlalchemy
+        - python-dotenv
+        - pydantic
+        - requests
+        - streamlit
+        - pytest
+        
